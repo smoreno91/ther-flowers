@@ -227,7 +227,7 @@
 							pointBorderColor: "#36394a",
 							pointBackgroundColor: "#36394a",
 							pointHoverBackgroundColor: "#fff",
-							pointHoverBorderColor: "#00ddf7",
+							pointHoverBorderColor: "#99d4b4",
 							pointBorderWidth: 3,
 							pointHoverBorderWidth: 2,
 							tension: 0,
@@ -590,7 +590,7 @@
 					}
 				},			
 				gridwidth: 1170,
-				gridheight: 880		
+				gridheight: 750		
 			});
 			
 		}
@@ -600,12 +600,14 @@
 		if (typeof $.fn.owlCarousel !== 'undefined') {
 			
 			// SERVICES SLIDER //
-			$(".owl-carousel.services-slider").owlCarousel({
+			var services_slider = $(".owl-carousel.services-slider");
+			services_slider.owlCarousel({
 				items: 1,
+				singleItem: true,
 				autoplay: true,
 				autoplayTimeout: 3000,
 				autoplayHoverPause: true,
-				loop: true,
+				loop: services_slider.children().length > 1,
 				nav: false,
 				navText: false,
 				dots: true,
@@ -617,12 +619,13 @@
 			
 			
 			// BLOG ARTICLES SLIDER //
-			var blog_articles_slider = $(".owl-carousel.blog-articles-slider").owlCarousel({
+			var blog_articles_slider = $(".owl-carousel.blog-articles-slider");
+			blog_articles_slider.owlCarousel({
 				autoplay: true,
 				autoplayTimeout: 3000,
 				autoplayHoverPause: true,
 				smartSpeed: 1200,
-				loop: true,
+				loop: blog_articles_slider.children().length > 1,
 				nav: false,
 				navText: false,
 				dots: true,
@@ -652,12 +655,13 @@
 			
 			
 			// IMAGES SLIDER //
-			$(".owl-carousel.images-slider").owlCarousel({
+			var images_slider1 = $(".owl-carousel.images-slider");
+			images_slider1.owlCarousel({
 				items: 1,
 				autoplay: true,
 				autoplayTimeout: 3000,
 				autoplayHoverPause: true,
-				loop: true,
+				loop: images_slider1.children().length > 1,
 				nav: false,
 				navText: false,
 				dots: true,
@@ -667,12 +671,13 @@
 				animateOut: 'slideOutDown'
 			});
 			
-			$(".owl-carousel.images-slider-2").owlCarousel({
+			var images_slider2 = $(".owl-carousel.images-slider-2");
+			images_slider2.owlCarousel({
 				items: 1,
 				autoplay: true,
 				autoplayTimeout: 3000,
 				autoplayHoverPause: true,
-				loop: true,
+				loop: images_slider2.children().length > 1,
 				nav: false,
 				navText: false,
 				dots: true,
@@ -680,12 +685,13 @@
 				touchDrag: true
 			});
 			
-			var images_slider = $(".owl-carousel.images-slider-3").owlCarousel({
+			var images_slider3 = $(".owl-carousel.images-slider-3");
+			images_slider3.owlCarousel({
 				items: 1,
 				autoplay: true,
 				autoplayTimeout: 3000,
 				autoplayHoverPause: true,
-				loop: true,
+				loop: images_slider3.children().length > 1,
 				nav: false,
 				navText: false,
 				dots: true,
@@ -694,21 +700,22 @@
 			});
 			
 			$('.images-slider-navigation .prev').click(function() {
-				images_slider.trigger('prev.owl.carousel');
+				images_slider1.trigger('prev.owl.carousel');
 			});
 			
 			$('.images-slider-navigation .next').click(function() {
-				images_slider.trigger('next.owl.carousel');
+				images_slider1.trigger('next.owl.carousel');
 			});
 			
 			
 			// LOGOS SLIDER //
-			$(".owl-carousel.logos-slider").owlCarousel({
+			var logos_slider = $(".owl-carousel.logos-slider");
+			logos_slider.owlCarousel({
 				autoplay: true,
 				autoplayTimeout: 3000,
 				autoplayHoverPause: true,
 				smartSpeed: 1200,
-				loop: true,
+				loop: logos_slider.children().length > 1,
 				nav: true,
 				navText: false,
 				dots: false,
