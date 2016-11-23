@@ -1,7 +1,7 @@
 <?php
-	require("includes/config.php");
+	include("includes/config.php");
 	$actual_page = "contact";
-	$title = "Contact Us - The R Flowers";
+	$title = _L("LANG_CONTACT_US") . " - The R Flowers";
 	$meta_keywords = "";
 	$meta_description = "";
 ?>
@@ -19,16 +19,16 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-9.jpg);">
+			<div id="page-header" class="parallax2" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-9.jpg);">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
 							
-							<h1>Contact</h1>
+							<h1><?php echo _L("LANG_CONTACT_US") ?></h1>
 							
 							<ol class="breadcrumb">
-								<li><a href="#">Home</a></li>
-								<li class="active">Contact</li>
+								<li><a href="#"><?php echo _L("LANG_HOME") ?></a></li>
+								<li class="active"><?php echo _L("LANG_CONTACT_US") ?></li>
 							</ol>
 							
 							<a class="go-to-section" href="#page-content"><i class="bronx-icon-mouse"></i></a>
@@ -43,6 +43,20 @@
 		
 		<!-- PAGE CONTENT -->
 		<div id="page-content">
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						
+						<div class="headline text-center">
+							
+							<h4>Contact us</h4>
+							
+						</div><!-- headline -->
+						
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
 			
 			<div class="container">
 				<div class="row">
@@ -107,14 +121,6 @@
 					</div><!-- col -->
 				</div><!-- row -->
 			</div><!-- container -->
-			
-			<section class="full-section" id="section-16">
-				<div class="full-section-container">
-				
-					<div class="map" data-zoom="17" data-height="600" data-address="Green Gate Lane, Baltimore, MD, USA" data-address-details="Here is our location" style="margin-bottom:-50px;"></div>
-			
-				</div><!-- full-section-container -->
-			</section><!-- full-section -->
 			
 		</div><!-- PAGE CONTENT -->
 		

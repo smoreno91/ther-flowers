@@ -21,19 +21,19 @@
 					<a id="mobile-menu-button" href="#"><i class="bronx-icon-lines"></i></a> 
 					
 					<ul class="menu clearfix" id="menu">
-						<li class="<?php echo $actual_page == 'home' ? 'active' : ''?>"><a href="/">Home</a></li>
-						<li class="<?php echo $actual_page == 'portfolio' ? 'active' : ''?>"><a href="portfolio.php">Portafolio</a></li>
+						<li class="<?php echo $actual_page == 'home' ? 'active' : ''?>"><a href="/"><?php echo _L("LANG_HOME") ?></a></li>
+						<li class="<?php echo $actual_page == 'portfolio' ? 'active' : ''?>"><a href="portfolio.php"><?php echo _L("LANG_PORTFOLIO") ?></a></li>
 						<li class="<?php echo $actual_page == 'about-us' ? 'active' : ''?> dropdown">
-							<a href="#">Nosotros</a>
+							<a href="about-us.php"><?php echo _L("LANG_US") ?></a>
 							<ul>
-								<li><a href="about-us.php">Nuestra compañia</a></li>
-								<li><a href="about-us.php">Por que preferirnos</a></li>
-								<li><a href="about-us.php">Responsabilidad social</a></li>
-								<li><a href="about-us.php">Nuestras fincas</a></li>
+								<li><a href="about-us.php"><?php echo _L("MENU_US_OUR_COMPANY") ?></a></li>
+								<li><a href="about-us.php"><?php echo _L("MENU_US_WHY_PREFER_US") ?></a></li>
+								<li><a href="about-us.php"><?php echo _L("MENU_US_SOCIAL_RESP") ?></a></li>
+								<li><a href="about-us.php"><?php echo _L("MENU_US_OUR_FARMS") ?></a></li>
 							</ul>
 						</li>
-						<li class="<?php echo $actual_page == 'gallery' ? 'active' : ''?>"><a href="gallery.php">Galería</a></li>
-						<li class="special-active"><a href="contact.php">Contáctenos</a></li>
+						<li class="<?php echo $actual_page == 'gallery' ? 'active' : ''?>"><a href="gallery.php"><?php echo _L("LANG_GALLERY") ?></a></li>
+						<li class="special-active"><a href="contact.php"><?php echo _L("LANG_CONTACT_US") ?></a></li>
 						
 						<li class="flags">
 							<a class="spanish" href="?lang=es"><img src="images/flags/spanish.png"></img></a>

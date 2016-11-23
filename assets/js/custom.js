@@ -962,7 +962,8 @@
 				
 				$(window).stellar({
 					horizontalScrolling: false,
-					verticalScrolling: true,
+					// verticalScrolling: true,
+					verticalScrolling: false,
 					responsive: true
 				});
 				

@@ -330,7 +330,7 @@
  ***********************************************************************************/
 	
 	.headline {
-		margin-bottom: 100px;
+		margin-bottom: 50px;
 	}
 	
 	.headline:before {
@@ -2506,7 +2506,7 @@
 	
 	/* REVOLUTION SLIDER */
 	.rev_slider_wrapper {
-		margin-bottom: 100px;
+		margin-bottom: 50px;
 		height: 880px;
 	}
 	

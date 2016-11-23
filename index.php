@@ -1,7 +1,7 @@
 <?php
 	include("includes/config.php");
 	$actual_page = "home";
-	$title = "Home - The R Flowers";
+	$title = _L("LANG_HOME") . " - The R Flowers";
 	$meta_keywords = "";
 	$meta_description = "";
 ?>

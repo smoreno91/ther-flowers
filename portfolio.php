@@ -1,7 +1,7 @@
 <?php
 	include("includes/config.php");
 	$actual_page = "portfolio";
-	$title = "Portfolio - The R Flowers";
+	$title = _L("LANG_PORTFOLIO") . " - The R Flowers";
 	$meta_keywords = "";
 	$meta_description = "";
 ?>
@@ -19,16 +19,16 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-5.jpg);">
+			<div id="page-header" class="parallax2" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-5.jpg);">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
 							
-							<h1>Portfolio</h1>
+							<h1><?php echo _L("LANG_PORTFOLIO"); ?></h1>
 							
 							<ol class="breadcrumb">
-								<li><a href="#">Home</a></li>
-								<li class="active">Portfolio classic</li>
+								<li><a href="#"><?php echo _L("LANG_HOME"); ?></a></li>
+								<li class="active"><?php echo _L("LANG_PORTFOLIO"); ?></li>
 							</ol>
 							
 							<a class="go-to-section" href="#page-content"><i class="bronx-icon-mouse"></i></a>
@@ -50,8 +50,7 @@
 
                         <div class="headline text-center">
 							
-							<p>We present</p>
-							<h4>Our Projects</h4>
+							<h4>Portfolio</h4>
 							
 						</div><!-- headline -->
 
@@ -166,23 +165,6 @@
 					</div><!-- col -->
 				</div><!-- row -->
 			</div><!-- container -->
-			
-			<div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                    	
-                        <ul class="pagination">
-							<li class="prev"><a href="#">01</a></li>
-							<li class="next"><a href="#">04</a></li>
-                            <li class="active"><a href="#">01.</a></li>
-                            <li><a href="#">02.</a></li>
-                            <li><a href="#">03.</a></li>
-                            <li><a href="#">04.</a></li>
-                        </ul>
-                        
-                    </div><!-- col -->
-                </div><!-- row -->
-            </div><!-- container -->
 			
 		</div><!-- PAGE CONTENT -->
 		

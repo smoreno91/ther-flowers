@@ -1,7 +1,7 @@
 <?php
 	include("includes/config.php");
 	$actual_page = "about-us";
-	$title = "About Us - The R Flowers";
+	$title = _L("LANG_US") . " - The R Flowers";
 	$meta_keywords = "";
 	$meta_description = "";
 ?>
@@ -19,16 +19,16 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-1.jpg);">
+			<div id="page-header" class="parallax2" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-1.jpg);">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
 							
-							<h1>About us</h1>
+							<h1><?php echo _L("LANG_US") ?></h1>
 							
 							<ol class="breadcrumb">
-								<li><a href="#">Home</a></li>
-								<li class="active">About us</li>
+								<li><a href="#"><?php echo _L("LANG_HOME") ?></a></li>
+								<li class="active"><?php echo _L("LANG_US") ?></li>
 							</ol>
 							
 							<a class="go-to-section" href="#page-content"><i class="bronx-icon-mouse"></i></a>
@@ -495,22 +495,6 @@
 				</div><!-- full-section-container -->
 			</section><!-- full-section -->
 			
-			<section class="full-section" id="section-9">
-				<div class="full-section-container">
-					
-					<div class="container">
-						<div class="row">
-							<div class="col-sm-12">
-								
-								<h2 class="text-center">For all the design <br> lovers</h2>
-								<h6 class="text-center"><a class="text-default-color" href="#">Buy Bronx right now</a></h6>
-								
-							</div><!-- col -->
-						</div><!-- row -->
-					</div><!-- container -->
-					
-				</div><!-- full-section-container -->
-			</section><!-- full-section -->
 			
 		</div><!-- PAGE CONTENT -->
 		
