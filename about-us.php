@@ -46,454 +46,149 @@
 			
 			<div class="container">
 				<div class="row">
-					<div class="col-lg-offset-1 col-lg-5 col-sm-6">
-						
-						<h4><small>Powerfull &amp; Magnificent</small></h4>
-						
-						<br>
-						
-						<p>Ut eleifend odio iaculis diam vehicula, sit amet volutpat nisi ulla mco rper. 
-						Viv amus odio ante, molestie id consectetur nec, elem en tum id lectus. Mauris ut 
-						eros sed sem sollicitudin rhoncus. Nunc neque leo, consequat vel bibendum at, iaculis 
-						non est. Namlobortis laoreet magna id ultricies. Ut eleifend odio iaculis diam.</p>
-						
-					</div><!-- col -->
-					<div class="col-lg-5 col-sm-6">
-						
-						<h4 class="text-default-color"><small>You have Control</small></h4>
-						
-						<br>
-						
-						<p>Viv amus odio ante, molestie id consectetur nec, elemen tum id lectus. Mauris ut 
-						eros sead sem sollicitudin rhoncus. Nunc neque leo, consequat vel bibendum at, iaculis 
-						non est. Namlobortis laoreet magna id ultricies. Ut eleifend odio iaculis diam vehicula, 
-						sit amet volutpat nisi ullamcorper. Viv amus odio ante.</p>
-						
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
-			
-			<br><br>
-			
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-offset-1 col-md-1 col-sm-2">
-						
-						<p class="text-mute no-margin-bottom text-big">2X</p>
-						<p class="text-mute">More <br> Efficient</p>
-						
-					</div><!-- col -->
-					<div class="col-lg-4 col-md-5 col-sm-10">
-						
-						<div class="progres-container">
-						
-							<div class="progress-bar-title">Coding</div>
-							
-							<div class="progress default-color">                        
-								<div class="progress-bar" data-width="95">
-								</div><!-- progress-bar -->
-							</div><!-- progess -->
-							
-						</div><!-- progres-container -->
-						
-						<div class="progres-container">
-						
-							<div class="progress-bar-title">Design</div>
-							
-							<div class="progress">                        
-								<div class="progress-bar" data-width="75">
-								</div><!-- progress-bar -->
-							</div><!-- progess -->
-							
-						</div><!-- progres-container -->
-						
-						<div class="progres-container">
-						
-							<div class="progress-bar-title">Html &amp; CSS</div>
-							
-							<div class="progress">                        
-								<div class="progress-bar" data-width="60">
-								</div><!-- progress-bar -->
-							</div><!-- progess -->
-							
-						</div><!-- progres-container -->
-						
-					</div><!-- col -->
-					<div class="col-md-1 col-sm-2">
-						
-						<p class="text-mute no-margin-bottom text-big">4X</p>
-						<p class="text-mute">More <br> Efficient</p>
-						
-					</div><!-- col -->
-					<div class="col-lg-4 col-md-5 col-sm-8">
-						
-						<div class="progres-container">
-						
-							<div class="progress-bar-title">Music</div>
-							
-							<div class="progress">                        
-								<div class="progress-bar" data-width="75">
-								</div><!-- progress-bar -->
-							</div><!-- progess -->
-							
-						</div><!-- progres-container -->
-						
-						<div class="progres-container">
-						
-							<div class="progress-bar-title">Wordpress</div>
-							
-							<div class="progress default-color">                        
-								<div class="progress-bar" data-width="95">
-								</div><!-- progress-bar -->
-							</div><!-- progess -->
-							
-						</div><!-- progres-container -->
-						
-						<div class="progres-container">
-						
-							<div class="progress-bar-title">Gaming</div>
-							
-							<div class="progress">                        
-								<div class="progress-bar" data-width="60">
-								</div><!-- progress-bar -->
-							</div><!-- progess -->
-							
-						</div><!-- progres-container -->
-						
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
-			
-			<div class="container" id="section-7">
-				<div class="row">
-					<div class="col-md-6">
-						
-						<div class="isotope col-3">
-							<div class="isotope-item">
-								
-								<div class="portfolio-item">
-										
-									<div class="portfolio-item-thumbnail">
-										
-										<img src="images/portfolio/image-1.jpg" alt="">
-										
-										<div class="portfolio-item-hover">
-										
-											<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-1.jpg">+</a>
-										
-										</div><!-- portfolio-item-hover -->
-										
-									</div><!-- portfolio-item-thumbnail -->														
-									
-								</div><!-- portfolio-item -->
-								
-							</div><!-- isotope-item -->
-							<div class="isotope-item">
-								
-								<div class="portfolio-item">
-										
-									<div class="portfolio-item-thumbnail">
-										
-										<img src="images/portfolio/image-2.jpg" alt="">
-										
-										<div class="portfolio-item-hover">
-										
-											<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-2.jpg">+</a>
-										
-										</div><!-- portfolio-item-hover -->
-										
-									</div><!-- portfolio-item-thumbnail -->														
-									
-								</div><!-- portfolio-item -->
-								
-							</div><!-- isotope-item -->
-							<div class="isotope-item">
-								
-								<div class="portfolio-item">
-										
-									<div class="portfolio-item-thumbnail">
-										
-										<img src="images/portfolio/image-3.jpg" alt="">
-										
-										<div class="portfolio-item-hover">
-										
-											<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-3.jpg">+</a>
-										
-										</div><!-- portfolio-item-hover -->
-										
-									</div><!-- portfolio-item-thumbnail -->														
-									
-								</div><!-- portfolio-item -->
-								
-							</div><!-- isotope-item -->
-						</div><!-- isotope -->
-						
-					</div><!-- col -->
-					<div class="col-md-6">
-						
-						<h5 class="no-margin-bottom">Explore our interactive gallery</h5>
-						<h6><a href="#"><small>Go to gallery now</small> <i class="bronx-icon-arrow-right"></i></a></h6>
-						
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
-			
-			<a class="youtube-player" data-property="{videoURL:'https://www.youtube.com/watch?v=OO-Bc8s50F4',containment:'#youtube-video-section',showControls:true,autoPlay:true, mute:true, startAt:0, opacity:1}">My video</a>
-
-            <section class="full-section dark-section" id="video-section">
-
-                <div id="youtube-video-section">
-                    <div class="full-section-overlay-color"></div>
-                </div><!-- youtube-video-section -->
-
-                <div class="full-section-container">
-
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-sm-12">
-							
-								<h2 class="text-center text-default-color">Watch our event live</h2>
-								<h5 class="text-center">A multaitude of ideas in a one day seminary</h5>
-								
-                            </div><!-- col -->
-                        </div><!-- row -->
-                    </div><!-- container -->
-
-                </div><!-- full-section-container -->
-            </section><!-- full-section -->
-			
-			<section class="full-section dark-section" id="section-4">
-				<div class="full-section-container">
-					
-					<div class="container">
-						<div class="row">
-							<div class="col-sm-3">
-						
-								<div class="counter style-2">
-								
-									<p>Up to</p>
-									
-									<div class="counter-value" data-value="85" data-symbol-after="%"></div>
-									<div class="counter-details">better designed</div>
-									
-								</div><!-- counter -->
-								
-							</div><!-- col -->
-							<div class="col-sm-3">
-						
-								<div class="counter style-2">
-								
-									<p>Up to</p>
-									
-									<div class="counter-value" data-value="75" data-symbol-after="%"></div>
-									<div class="counter-details">fast response</div>
-									
-								</div><!-- counter -->
-								
-							</div><!-- col -->
-							<div class="col-sm-3">
-						
-								<div class="counter style-2">
-								
-									<p>Up to</p>
-									
-									<div class="counter-value" data-value="25" data-symbol-after="%"></div>
-									<div class="counter-details">clean coded</div>
-									
-								</div><!-- counter -->
-								
-							</div><!-- col -->
-							<div class="col-sm-3">
-						
-								<div class="counter style-2">
-								
-									<p>Up to</p>
-									
-									<div class="counter-value" data-value="100" data-symbol-after="%"></div>
-									<div class="counter-details">quality item</div>
-									
-								</div><!-- counter -->
-								
-							</div><!-- col -->
-						</div><!-- row -->
-					</div><!-- container -->
-					
-				</div><!-- full-section-container -->
-			</section><!-- full-section -->
-			
-			<div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
+					<div class="col-sm-12">
 						
 						<div class="headline text-center">
 							
-							<p>We present</p>
-							<h4>Our Team</h4>
+							<h4>Nosotros</h4>
 							
 						</div><!-- headline -->
-
-                    </div><!-- col -->
-                </div><!-- row -->
-            </div><!-- container -->
+						
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
 			
 			<div class="container">
-                <div class="row">
-                    <div class="col-sm-4">
-
-                        <div class="about-me">
+				<div class="row">
+					<div class="col-sm-12">
 						
-							<div class="about-me-thumbnail">
+						<div class="portfolio-item portfolio-classic">
 							
-								<img src="images/about/team/image-1.jpg" alt="">
+							<div class="portfolio-item-thumbnail">
 								
-								<div class="social-media">
+								<img src="images/portfolio/image-20.jpg" alt="">
+								
+								<div class="portfolio-item-hover">
 									
-									<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-									<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-									<a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
 									
-								</div><!-- social-media -->
+								</div><!-- portfolio-item-hover -->
+								
+							</div><!-- portfolio-item-thumbnail -->
 							
-							</div><!-- about-me-thumbnail -->
+							<div class="portfolio-item-details">
+								
+								<h6><a href="portfolio-single.html">Nuestra compañia</a></h6>
+								
+								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
+								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
+								
+							</div><!-- portfolio-item-details -->
 							
-							<h5>Jason Carlight</h5>
-							<h6>Company CEO</h6>
-							
-						</div><!-- about-me -->
-
-                    </div><!-- col -->
-					<div class="col-sm-4">
-
-                        <div class="about-me">
+						</div><!-- portfolio-item -->
 						
-							<div class="about-me-thumbnail">
-							
-								<img src="images/about/team/image-2.jpg" alt="">
-								
-								<div class="social-media">
-									
-									<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-									<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-									<a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a>
-									
-								</div><!-- social-media -->
-							
-							</div><!-- about-me-thumbnail -->
-							
-							<h5>Samantha York</h5>
-							<h6>Web Developer</h6>
-							
-						</div><!-- about-me -->
-
-                    </div><!-- col -->
-					<div class="col-sm-4">
-
-                        <div class="about-me">
-						
-							<div class="about-me-thumbnail">
-							
-								<img src="images/about/team/image-3.jpg" alt="">
-								
-								<div class="social-media">
-									
-									<a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
-									<a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
-									<a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a>
-									
-								</div><!-- social-media -->
-							
-							</div><!-- about-me-thumbnail -->
-							
-							<h5>Andrew Smith</h5>
-							<h6>Designer</h6>
-							
-						</div><!-- about-me -->
-
-                    </div><!-- col -->
-                </div><!-- row -->
-            </div><!-- container -->
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
 			
-			<section class="full-section" id="section-8">
-				<div class="full-section-container">
-					
-					<div class="container">
-						<div class="row">
-							<div class="col-md-6">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						
+						<div class="portfolio-item portfolio-classic">
+							
+							<div class="portfolio-item-details">
 								
-								<h4 style="margin-bottom:25px;">Never miss what matters.</h4>
+								<h6><a href="portfolio-single.html">¿Por que preferirnos?</a></h6>
 								
-								<p>Ut eleifend odio iaculis diam vehicula, sit amet volutpat nisi ulla mco rper. Viv 
-								amus odio ante, molestie id consectetur nec, elem en tum id lectus. Mauris ut eros sed 
-								sem sollicitudin rhoncus. Nunc neque leo, consequat vel bibendum at, iaculis non est. 
-								Namlobortis laoreet magna id ultricies. Ut eleifend odio iaculis diam. Ut eleifend 
-								odio iaculis diam vehicula, sit amet volutpat nisi ulla mco rper. Viv amus odio ante, 
-								mo lestie id consectetur nec, elem en tum id lectus.</p>
+								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
+								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
 								
-								<br><br>
+							</div><!-- portfolio-item-details -->
+							
+							<div class="portfolio-item-thumbnail">
 								
-							</div><!-- col -->
-							<div class="col-md-3 col-sm-6">
-
-								<div class="service-box style-3">
+								<img src="images/portfolio/image-20.jpg" alt="">
+								
+								<div class="portfolio-item-hover">
 									
-									<i class="bronx-icon-phone"></i>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
 									
-									<div class="service-box-content">
-										
-										<h6><a href="single-service.html">Responsive</a></h6>
-										
-										<p>Works on all devices</p>
-										
-										<a href="single-service.html">Read more <i class="bronx-icon-arrow-right"></i></a>
-										
-									</div><!-- service-box-content -->
-									
-								</div><!-- service-box -->
-
-							</div><!-- col -->
-							<div class="col-md-3 col-sm-6">
-
-								<div class="service-box style-3">
-									
-									<i class="bronx-icon-star"></i>
-									
-									<div class="service-box-content">
-										
-										<h6><a href="single-service.html">Powerfull</a></h6>
-										
-										<p>Has all the elements</p>
-										
-										<a href="single-service.html">Read more <i class="bronx-icon-arrow-right"></i></a>
-										
-									</div><!-- service-box-content -->
-									
-								</div><!-- service-box -->
-
-							</div><!-- col -->
-						</div><!-- row -->
-					</div><!-- container -->
-					
-					<div class="container-fluid">
-						<div class="row">
-							<div class="col-lg-offset-1 col-lg-5 col-sm-6">
+								</div><!-- portfolio-item-hover -->
 								
-								<div class="embed-responsive embed-responsive-16by9">
-									<iframe src="https://www.youtube.com/embed/Nm8Ms9m20_Y" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-								</div><!-- embed-responsive -->
+							</div><!-- portfolio-item-thumbnail -->
+							
+						</div><!-- portfolio-item -->
+						
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						
+						<div class="portfolio-item portfolio-classic">
+							
+							<div class="portfolio-item-thumbnail">
 								
-							</div><!-- col -->
-							<div class="col-lg-5 col-sm-6">
+								<img src="images/portfolio/image-20.jpg" alt="">
 								
-								<div class="embed-responsive embed-responsive-16by9">
-									<iframe src="https://www.youtube.com/embed/OBcrN-r-oQg" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-								</div><!-- embed-responsive -->
+								<div class="portfolio-item-hover">
+									
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
+									
+								</div><!-- portfolio-item-hover -->
 								
-							</div><!-- col -->
-						</div><!-- row -->
-					</div><!-- container-fluid -->
-					
-				</div><!-- full-section-container -->
-			</section><!-- full-section -->
+							</div><!-- portfolio-item-thumbnail -->
+							
+							<div class="portfolio-item-details">
+								
+								<h6><a href="portfolio-single.html">Responsabilidad social</a></h6>
+								
+								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
+								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
+								
+							</div><!-- portfolio-item-details -->
+							
+						</div><!-- portfolio-item -->
+						
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						
+						<div class="portfolio-item portfolio-classic">
+							
+							<div class="portfolio-item-details">
+								
+								<h6><a href="portfolio-single.html">Nuestras fincas</a></h6>
+								
+								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
+								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
+								
+							</div><!-- portfolio-item-details -->
+							
+							<div class="portfolio-item-thumbnail">
+								
+								<img src="images/portfolio/image-20.jpg" alt="">
+								
+								<div class="portfolio-item-hover">
+									
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
+									
+								</div><!-- portfolio-item-hover -->
+								
+							</div><!-- portfolio-item-thumbnail -->
+							
+						</div><!-- portfolio-item -->
+						
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
 			
 			
 		</div><!-- PAGE CONTENT -->

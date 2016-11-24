@@ -41,9 +41,9 @@
 						</li>
 						<li class="social">
 							<div class="social-media">
-								<a class="facebook" href="<?php echo _S('LINK_FACEBOOK'); ?>"><i class="fa fa-facebook"></i></a>
-								<a class="instagram" href="<?php echo _S('LINK_INSTAGRAM'); ?>"><i class="fa fa-instagram"></i></a>
-								<a class="skype" href="<?php echo _S('LINK_SKYPE'); ?>"><i class="fa fa-skype"></i></a>
+								<a class="facebook" target="_blank" href="<?php echo _S('LINK_FACEBOOK'); ?>"><i class="fa fa-facebook"></i></a>
+								<a class="instagram" target="_blank" href="<?php echo _S('LINK_INSTAGRAM'); ?>"><i class="fa fa-instagram"></i></a>
+								<a class="skype" target="_blank" href="<?php echo _S('LINK_SKYPE'); ?>"><i class="fa fa-skype"></i></a>
 							</div>
 						</li>
 					</ul>

@@ -66,11 +66,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-26.jpg" alt="">
+								<img src="images/portfolio/image-20.jpg" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-26.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -79,13 +79,10 @@
 							<div class="portfolio-item-details">
 								
 								<h6><a href="portfolio-single.html">Statement Piece</a></h6>
-								<p>Media</p>
 								
 								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
 								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
 								
-								<a href="portfolio-single.html">Read more <i class="bronx-icon-arrow-right"></i></a>
-								
 							</div><!-- portfolio-item-details -->
 							
 						</div><!-- portfolio-item -->
@@ -102,11 +99,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-27.jpg" alt="">
+								<img src="images/portfolio/image-21.jpg" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-27.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-21.jpg">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -115,12 +112,42 @@
 							<div class="portfolio-item-details">
 								
 								<h6><a href="portfolio-single.html">Statement Piece</a></h6>
-								<p>Media</p>
 								
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut lacus rutrum, iaculis dolor 
 								et, iaculis sapien. Morbi orci tortor, tincidunt non aliquet eu, scelerisque eget justo...</p>
 								
-								<a href="portfolio-single.html">Read more <i class="bronx-icon-arrow-right"></i></a>
+							</div><!-- portfolio-item-details -->
+							
+						</div><!-- portfolio-item -->
+						
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						
+						<div class="portfolio-item portfolio-classic">
+							
+							<div class="portfolio-item-thumbnail">
+								
+								<img src="images/portfolio/image-22.jpg" alt="">
+								
+								<div class="portfolio-item-hover">
+									
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-22.jpg">+</a>
+									
+								</div><!-- portfolio-item-hover -->
+								
+							</div><!-- portfolio-item-thumbnail -->
+							
+							<div class="portfolio-item-details">
+								
+								<h6><a href="portfolio-single.html">Statement Piece</a></h6>
+								
+								<p>Vivamus pretium massa in libero consectetur, nec convallis mauris porta. Morbi lacinia tellus arcu, 
+								vitae ultricies nunc varius quis. Integer volutpat blandit ligula. Nullam eu dolor porttitor...</p>
 								
 							</div><!-- portfolio-item-details -->
 							
@@ -138,11 +165,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-28.jpg" alt="">
+								<img src="images/portfolio/image-23.jpg" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-28.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-23.jpg">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -151,12 +178,9 @@
 							<div class="portfolio-item-details">
 								
 								<h6><a href="portfolio-single.html">Statement Piece</a></h6>
-								<p>Media</p>
 								
 								<p>Vivamus pretium massa in libero consectetur, nec convallis mauris porta. Morbi lacinia tellus arcu, 
 								vitae ultricies nunc varius quis. Integer volutpat blandit ligula. Nullam eu dolor porttitor...</p>
-								
-								<a href="portfolio-single.html">Read more <i class="bronx-icon-arrow-right"></i></a>
 								
 							</div><!-- portfolio-item-details -->
 							

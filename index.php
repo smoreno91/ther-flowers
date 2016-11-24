@@ -26,9 +26,9 @@
 						
 							<img src="images/index/revolution-slider/bg-slide-1.jpg" alt="">
 							
-							<div class="tp-caption title text-center"
+							<div class="tp-caption big-title text-center"
                                  data-x="center"
-                                 data-y="230"
+                                 data-y="300"
                                  data-speed="700"
                                  data-start="1800"
                                  data-transform_in="o:0;y:-100;s:700;"

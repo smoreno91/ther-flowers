@@ -2589,16 +2589,18 @@
 	
 	.tp-caption.title {
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Yellowtail", "Montserrat", sans-serif;
 		font-size: 72px;
 		line-height: 72px;
+		text-shadow: 2px 2px 4px #000;
 	}
 	
 	.tp-caption.big-title {
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Yellowtail", "Montserrat", sans-serif;
 		font-size: 92px;
 		line-height: 82px;
+		text-shadow: 2px 2px 4px #000;
 	}
 	
 	.tp-caption.small-title {
@@ -3648,4 +3650,8 @@
 	
 	.widget-social .social-media {
 		margin-bottom: 0;
+	}
+	
+	.fancybox-nav span {
+		visibility: visible;
 	}
