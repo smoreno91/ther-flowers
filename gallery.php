@@ -4,11 +4,9 @@
 	$title = _L("LANG_GALLERY") . " - The R Flowers";
 	$meta_keywords = "";
 	$meta_description = "";
+	
+	include('includes/head.php')
 ?>
-<!DOCTYPE html>
-<html lang="<?php echo getLanguage() ?>">
-
-<?php include('includes/head.php') ?>
 
 <body class="">
 
@@ -245,54 +243,12 @@
 	<!-- FANCYBOX -->
 	<script src="assets/plugins/fancybox/jquery.fancybox.pack.js"></script>
 	
-	<!-- REVOLUTION SLIDER  -->
-	<script src="assets/plugins/revolutionslider/js/jquery.themepunch.tools.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/jquery.themepunch.revolution.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.actions.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.carousel.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.kenburn.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.layeranimation.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.migration.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.navigation.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.parallax.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.slideanims.min.js"></script>
-	<script src="assets/plugins/revolutionslider/js/extensions/revolution.extension.video.min.js"></script>
-	
-	<!-- OWL Carousel -->
-	<script src="assets/plugins/owl-carousel/owl.carousel.min.js"></script>
-	
 	<!-- PARALLAX -->
 	<script src="assets/plugins/parallax/jquery.stellar.min.js"></script>
 	
 	<!-- ISOTOPE -->
 	<script src="assets/plugins/isotope/imagesloaded.pkgd.min.js"></script>
 	<script src="assets/plugins/isotope/isotope.pkgd.min.js"></script>
-	
-	<!-- PLACEHOLDER -->
-	<script src="assets/plugins/placeholders/jquery.placeholder.min.js"></script>
-	
-	<!-- CONTACT FORM VALIDATE & SUBMIT -->
-	<script src="assets/plugins/validate/jquery.validate.min.js"></script>
-	<script src="assets/plugins/submit/jquery.form.min.js"></script>
-	
-	<!-- GOOGLE MAPS -->
-	<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-	<script src="assets/plugins/googlemaps/gmap3.min.js"></script>
-	
-	<!-- CHARTS -->
-	<script src="assets/plugins/charts/jquery.easypiechart.min.js"></script>
-	
-	<!-- COUNTER -->
-	<script src="assets/plugins/counter/jquerysimplecounter.js"></script>
-	
-	<!-- STATISTICS -->
-	<script src="assets/plugins/statistics/chart.min.js"></script>
-	
-	<!-- INSTAFEED -->
-	<script src="assets/plugins/instafeed/instafeed.min.js"></script>
-	
-	<!-- COUNTDOWN -->
-	<script src="assets/plugins/countdown/jquery.countdown.min.js"></script>
 	
 	<!-- ANIMATIONS -->
 	<script src="assets/plugins/animations/wow.min.js"></script>

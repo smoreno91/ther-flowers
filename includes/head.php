@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="<?php echo getLanguage() ?>">
+
 <head>
     
 	<meta charset="utf-8">

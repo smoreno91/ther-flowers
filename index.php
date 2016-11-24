@@ -4,11 +4,9 @@
 	$title = _L("LANG_HOME") . " - The R Flowers";
 	$meta_keywords = "";
 	$meta_description = "";
-?>
-<!DOCTYPE html>
-<html lang="<?php echo getLanguage() ?>">
 
-<?php include('includes/head.php') ?>
+ 	include('includes/head.php')
+?>
 
 <body class="">
 
@@ -311,32 +309,6 @@
 	
 	<!-- PARALLAX -->
 	<script src="assets/plugins/parallax/jquery.stellar.min.js"></script>
-	
-	<!-- ISOTOPE -->
-	<script src="assets/plugins/isotope/imagesloaded.pkgd.min.js"></script>
-	<script src="assets/plugins/isotope/isotope.pkgd.min.js"></script>
-	
-	<!-- PLACEHOLDER -->
-	<script src="assets/plugins/placeholders/jquery.placeholder.min.js"></script>
-	
-	<!-- CONTACT FORM VALIDATE & SUBMIT -->
-	<script src="assets/plugins/validate/jquery.validate.min.js"></script>
-	<script src="assets/plugins/submit/jquery.form.min.js"></script>
-	
-	<!-- CHARTS -->
-	<script src="assets/plugins/charts/jquery.easypiechart.min.js"></script>
-	
-	<!-- COUNTER -->
-	<script src="assets/plugins/counter/jquerysimplecounter.js"></script>
-	
-	<!-- STATISTICS -->
-	<script src="assets/plugins/statistics/chart.min.js"></script>
-
-	<!-- INSTAFEED -->
-	<script src="assets/plugins/instafeed/instafeed.min.js"></script>
-	
-	<!-- COUNTDOWN -->
-	<script src="assets/plugins/countdown/jquery.countdown.min.js"></script>
 	
 	<!-- ANIMATIONS -->
 	<script src="assets/plugins/animations/wow.min.js"></script>
