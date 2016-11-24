@@ -6,7 +6,7 @@
 	$meta_description = "";
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo getLanguage() ?>">
 
 <?php include('includes/head.php') ?>
 
@@ -106,7 +106,7 @@
 
                         <div class="headline text-center">
 							
-							<h4>Portafolio</h4>
+							<h4><?php echo _L("LANG_PORTFOLIO"); ?></h4>
 							
 						</div><!-- headline -->
 
@@ -252,12 +252,12 @@
 						<div class="row">
 							<div class="col-sm-9">
 								
-								<h3 class="last">¿Te gusta The R Flowers?<!-- <a href="/contact.php">¡CONTÁCTANOS!</a>--></h3>
+								<h3 class="last"><?php echo _L("HOME_DO_YOU_LIKE") ?></h3>
 								
 							</div><!-- col -->
 							<div class="col-sm-3 text-right">
 								
-								<a class="btn btn-default" href="/contact.php">Contáctanos <i class="bronx-icon-arrow-right"></i></a>
+								<a class="btn btn-default" href="/contact.php"><?php echo _L("LANG_CONTACT_US") ?> <i class="bronx-icon-arrow-right"></i></a>
 								
 							</div><!-- col -->
 						</div><!-- row -->

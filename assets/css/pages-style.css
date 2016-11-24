@@ -122,6 +122,19 @@
 		text-align: center;
 	}
 	
+	@media (min-width: 1200px) {
+		
+		#header-sticky:not(.header-sticky) #logo {
+			display: table;
+    		height: 125px;
+    		text-align: center;
+		}
+		#header-sticky:not(.header-sticky) #logo a {
+			display: table-cell;
+  			vertical-align: middle;
+		}
+	}
+	
 	@media (max-width: 767px) {
 		
 		#logo {

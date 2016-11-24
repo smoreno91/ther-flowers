@@ -6,7 +6,7 @@
 	$meta_description = "";
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo getLanguage() ?>">
 
 <?php include('includes/head.php') ?>
 
@@ -50,7 +50,7 @@
 
                         <div class="headline text-center">
 							
-							<h4>Portfolio</h4>
+							<h4><?php echo _L("LANG_PORTFOLIO"); ?></h4>
 							
 						</div><!-- headline -->
 

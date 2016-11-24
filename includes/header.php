@@ -26,10 +26,10 @@
 						<li class="<?php echo $actual_page == 'about-us' ? 'active' : ''?> dropdown">
 							<a href="about-us.php"><?php echo _L("LANG_US") ?></a>
 							<ul>
-								<li><a href="about-us.php"><?php echo _L("MENU_US_OUR_COMPANY") ?></a></li>
-								<li><a href="about-us.php"><?php echo _L("MENU_US_WHY_PREFER_US") ?></a></li>
-								<li><a href="about-us.php"><?php echo _L("MENU_US_SOCIAL_RESP") ?></a></li>
-								<li><a href="about-us.php"><?php echo _L("MENU_US_OUR_FARMS") ?></a></li>
+								<li><a href="about-us.php"><?php echo _L("LANG_OUR_COMPANY") ?></a></li>
+								<li><a href="about-us.php"><?php echo _L("LANG_WHY_PREFER_US") ?></a></li>
+								<li><a href="about-us.php"><?php echo _L("LANG_SOCIAL_RESP") ?></a></li>
+								<li><a href="about-us.php"><?php echo _L("LANG_OUR_FARMS") ?></a></li>
 							</ul>
 						</li>
 						<li class="<?php echo $actual_page == 'gallery' ? 'active' : ''?>"><a href="gallery.php"><?php echo _L("LANG_GALLERY") ?></a></li>

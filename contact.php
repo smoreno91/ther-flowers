@@ -6,7 +6,7 @@
 	$meta_description = "";
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo getLanguage() ?>">
 	
 <?php include('includes/head.php') ?>
 
@@ -50,7 +50,7 @@
 						
 						<div class="headline text-center">
 							
-							<h4>Contact us</h4>
+							<h4><?php echo _L("LANG_CONTACT_US") ?></h4>
 							
 						</div><!-- headline -->
 						
@@ -62,22 +62,22 @@
 				<div class="row">
 					<div class="col-sm-7">
 						
-						<h4><small>Leave a message</small></h4>
+						<h4><small><?php echo _L("CONTACT_TITLE") ?></small></h4>
 						
 						<form id="contact-form" name="contact-form" method="post" action="assets/php/send.php">
                             <fieldset>
 
                                 <div id="alert-area"></div>
 
-                                <input class="col-xs-12" id="name" type="text" name="name" placeholder="your name">
+                                <input class="col-xs-12" id="name" type="text" name="name" placeholder="<?php echo _L("CONTACT_NAME") ?>">
 
-                                <input class="col-xs-12" id="email" type="email" name="email" placeholder="your e-mail">
+                                <input class="col-xs-12" id="email" type="email" name="email" placeholder="<?php echo _L("CONTACT_EMAIL") ?>">
 
-                                <input class="col-xs-12" id="subject" type="text" name="subject" placeholder="subject">
+                                <input class="col-xs-12" id="subject" type="text" name="subject" placeholder="<?php echo _L("CONTACT_SUBJECT") ?>">
 
-                                <textarea class="col-xs-12" id="message" name="message" rows="9" cols="25" placeholder="Message"></textarea>
+                                <textarea class="col-xs-12" id="message" name="message" rows="9" cols="25" placeholder="<?php echo _L("CONTACT_MESSAGE") ?>"></textarea>
 
-                                <button class="btn btn-default" id="submit" type="submit" name="submit" value="">Leave a reply <i class="bronx-icon-arrow-right"></i></button>
+                                <button class="btn btn-default" id="submit" type="submit" name="submit" value=""><?php echo _L("CONTACT_SUBMIT") ?> <i class="bronx-icon-arrow-right"></i></button>
 
                             </fieldset>
                         </form>

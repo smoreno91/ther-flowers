@@ -35,17 +35,17 @@ function _L($phrase){
         'LANG_US'               => array('en' => 'About us', 'es' => 'Nosotros'),
         'LANG_GALLERY'          => array('en' => 'Gallery', 'es' => 'Galería'),
         'LANG_CONTACT_US'       => array('en' => 'Contact us', 'es' => 'Contáctenos'),
-        'MENU_US_OUR_COMPANY'   => array('en' => 'Our Company', 'es' => 'Nuestra compañia'),
-        'MENU_US_WHY_PREFER_US' => array('en' => 'Why prefer us?', 'es' => '¿Por qué preferirnos?'),
-        'MENU_US_SOCIAL_RESP'   => array('en' => 'Social responsability', 'es' => 'Responsabilidad social'),
-        'MENU_US_OUR_FARMS'     => array('en' => 'Our farms', 'es' => 'Nuestras fincas'),
-        ''  => array('en' => '', 'es' => ''),
-        ''  => array('en' => '', 'es' => ''),
-        ''  => array('en' => '', 'es' => ''),
-        ''  => array('en' => '', 'es' => ''),
-        ''  => array('en' => '', 'es' => ''),
-        ''  => array('en' => '', 'es' => ''),
-        ''  => array('en' => '', 'es' => ''),
+        'LANG_OUR_COMPANY'      => array('en' => 'Our Company', 'es' => 'Nuestra compañia'),
+        'LANG_WHY_PREFER_US'    => array('en' => 'Why prefer us?', 'es' => '¿Por qué preferirnos?'),
+        'LANG_SOCIAL_RESP'      => array('en' => 'Social responsability', 'es' => 'Responsabilidad social'),
+        'LANG_OUR_FARMS'        => array('en' => 'Our farms', 'es' => 'Nuestras fincas'),
+        'HOME_DO_YOU_LIKE'      => array('en' => 'Do you like The R Flowers?', 'es' => '¿Te gusta The R Flowers?'),
+        'CONTACT_TITLE'         => array('en' => 'Leave a message', 'es' => 'Déjanos tu mensaje'),
+        'CONTACT_NAME'          => array('en' => 'Your name', 'es' => 'Tu nombre'),
+        'CONTACT_EMAIL'         => array('en' => 'Your e-mail', 'es' => 'Tu correo electrónico'),
+        'CONTACT_SUBJECT'       => array('en' => 'Subject', 'es' => 'Asunto'),
+        'CONTACT_MESSAGE'       => array('en' => 'Message', 'es' => 'Mensaje'),
+        'CONTACT_SUBMIT'        => array('en' => 'Leave a reply', 'es' => 'Enviar'),
         ''  => array('en' => '', 'es' => ''),
         ''  => array('en' => '', 'es' => ''),
         ''  => array('en' => '', 'es' => ''),
@@ -62,11 +62,8 @@ function _L($phrase){
         ''  => array('en' => '', 'es' => ''),
         ''  => array('en' => '', 'es' => ''),
     );
-    
-    $lang = getLanguage();
-    //$lang = isset($_GET['lang']) ? $_GET['lang'] : 'en';
 
-    return (!array_key_exists($phrase, $_L)) ? $phrase : $_L[$phrase][$lang];
+    return (!array_key_exists($phrase, $_L)) ? $phrase : $_L[$phrase][getLanguage()];
 }
 
 ?>

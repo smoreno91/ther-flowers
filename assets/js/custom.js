@@ -899,23 +899,22 @@
 						required: true
 					},
 					message: {
-						required: true,
-						minlength: 10
+						required: true
 					}
 				},
 				messages: {
 					name: {
-						required: "Please enter your name!"
+						required: $("html").attr("lang") == "es" ? "Por favor ingresa tu nombre!" : "Please enter your name!"
 					},
 					email: {
-						required: "Please enter your email!",
-						email: "Please enter a valid email address"
+						required: $("html").attr("lang") == "es" ? "¡Por favor ingresa tu correo electrónico!" : "Please enter your email!",
+						email: $("html").attr("lang") == "es" ? "¡Por favor ingresa un correo electrónico válido!" : "Please enter a valid email address"
 					},
 					subject: {
-						required: "Please enter the subject!"
+						required: $("html").attr("lang") == "es" ? "¡Por favor ingresa el asunto!" : "Please enter the subject!"
 					},
 					message: {
-						required: "Please enter your message!"
+						required: $("html").attr("lang") == "es" ? "¡Por favor ingresa tu mensaje!" : "Please enter your message!"
 					}
 				},
 					
