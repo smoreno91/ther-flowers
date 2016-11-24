@@ -35,6 +35,7 @@ function _L($phrase){
         'LANG_US'               => array('en' => 'About us', 'es' => 'Nosotros'),
         'LANG_GALLERY'          => array('en' => 'Gallery', 'es' => 'Galería'),
         'LANG_CONTACT_US'       => array('en' => 'Contact us', 'es' => 'Contáctenos'),
+        'LANG_ERROR'            => array('en' => '404', 'es' => '404'),
         'LANG_OUR_COMPANY'      => array('en' => 'Our Company', 'es' => 'Nuestra compañia'),
         'LANG_WHY_PREFER_US'    => array('en' => 'Why prefer us?', 'es' => '¿Por qué preferirnos?'),
         'LANG_SOCIAL_RESP'      => array('en' => 'Social responsability', 'es' => 'Responsabilidad social'),
