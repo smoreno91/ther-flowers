@@ -1369,6 +1369,7 @@
 		float: left;
 		width: 50%;
 		padding: 0;
+		padding-right: 10px;
 		padding-left: 30px;
 		text-align: left;
 	}

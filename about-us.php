@@ -56,7 +56,7 @@
 				</div><!-- row -->
 			</div><!-- container -->
 			
-			<div class="container">
+			<div class="container" id="our-company">
 				<div class="row">
 					<div class="col-sm-12">
 						
@@ -76,10 +76,9 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html">Nuestra compañia</a></h6>
+								<h6><a href="portfolio-single.html"><?php echo _L("LANG_OUR_COMPANY") ?></a></h6>
 								
-								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
-								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
+								<p><?php echo _L("US_OURCOMPANY_CONTENT") ?></p>
 								
 							</div><!-- portfolio-item-details -->
 							
@@ -89,7 +88,7 @@
 				</div><!-- row -->
 			</div><!-- container -->
 			
-			<div class="container">
+			<div class="container" id="why-buy-from-us">
 				<div class="row">
 					<div class="col-sm-12">
 						
@@ -97,10 +96,9 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html">¿Por que preferirnos?</a></h6>
+								<h6><a href="portfolio-single.html"><?php echo _L("LANG_WHY_BUY_FROM_US") ?></a></h6>
 								
-								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
-								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
+								<p><?php echo _L("US_BUYFROMUS_CONTENT") ?></p>
 								
 							</div><!-- portfolio-item-details -->
 							
@@ -122,7 +120,7 @@
 				</div><!-- row -->
 			</div><!-- container -->
 			
-			<div class="container">
+			<div class="container" id="social-responsability">
 				<div class="row">
 					<div class="col-sm-12">
 						
@@ -142,10 +140,9 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html">Responsabilidad social</a></h6>
+								<h6><a href="portfolio-single.html"><?php echo _L("LANG_SOCIAL_RESP") ?></a></h6>
 								
-								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
-								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
+								<p><?php echo _L("US_SOCIALRES_CONTENT") ?></p>
 								
 							</div><!-- portfolio-item-details -->
 							
@@ -155,7 +152,7 @@
 				</div><!-- row -->
 			</div><!-- container -->
 			
-			<div class="container">
+			<div class="container" id="our-farms">
 				<div class="row">
 					<div class="col-sm-12">
 						
@@ -163,10 +160,9 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html">Nuestras fincas</a></h6>
+								<h6><a href="portfolio-single.html"><?php echo _L("LANG_OUR_FARMS") ?></a></h6>
 								
-								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
-								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
+								<p><?php echo _L("US_OURFARMS_CONTENT") ?></p>
 								
 							</div><!-- portfolio-item-details -->
 							

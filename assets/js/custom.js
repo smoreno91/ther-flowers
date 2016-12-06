@@ -477,6 +477,16 @@
 		// STICKY //
 		sticky();
 		
+		$(".subnav a").click(function(e){
+			if(this.getAttribute("href").indexOf("about-us.php")){
+		        e.preventDefault();
+		        $("html, body").animate({
+					scrollTop: $(this.getAttribute("href")).offset().top
+				}, 800);
+				return false;
+			}
+	    });
+		
 		
 		// MENU //
 		if (typeof $.fn.superfish !== 'undefined') {
