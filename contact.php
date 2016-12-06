@@ -83,17 +83,7 @@
 					</div><!-- col -->
 					<div class="col-sm-5">
 						
-						<h4><small>Bronx</small></h4>
-						
-						<br>
-						
-						<p>Bronx is a multiuse theme with a unique layout, strong colores and a design created with 
-						passion. Following the trends, Bronx combines modern design with a classic touch. It's eclectic 
-						shapes will make you love it!</p>
-						
-						<br>
-						
-						<h4><small>Get in touch</small></h4>
+						<h4><small><?php echo _L("CONTACT_GET_IN_TOUCH") ?></small></h4>
 						
 						<br>
 						
@@ -101,16 +91,16 @@
 							
 							<ul>
 								<li>    
-									<span>Phone: </span>
-									443-748-7769
+									<span><?php echo _L("CONTACT_PHONE") ?>: </span>
+									<?php echo _S("CONTACT_PHONE") ?>
 								</li>
 								<li>
-									<span>E-mail: </span>
-									<a href="mailto:bronx@vertiqalteam.com">bronx@vertiqalteam.com</a>
+									<span><?php echo _L("CONTACT_EMAIL") ?>: </span>
+									<a href="mailto:<?php echo _S("CONTACT_EMAIL") ?>"><?php echo _S("CONTACT_EMAIL") ?></a>
 								</li>
 								<li>
-									<span>Address: </span>
-									2801 Green Gate Lane <br> Baltimore, MD 21201
+									<span><?php echo _L("CONTACT_ADDRESS") ?>: </span>
+									Km 1 Vía La Ceja-El Retiro<br>Vereda La Milagrosa<br>La Ceja, Antioquia.<br>Colombia.
 								</li>
 							</ul>
 							

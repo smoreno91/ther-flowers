@@ -24,20 +24,20 @@
 					
 					<div class="widget widget-contact">
 				
-						<h6 class="widget-title">Get in touch</h6>
+						<h6 class="widget-title"><?php echo _L("CONTACT_GET_IN_TOUCH") ?></h6>
 						
 						<ul>
 							<li>    
-								<span>Phone: </span>
-								443-748-7769 / 443-235-4436
+								<span><?php echo _L("CONTACT_PHONE") ?>: </span>
+								<?php echo _S("CONTACT_PHONE") ?>
 							</li>
 							<li>
-								<span>E-mail: </span>
-								<a href="mailto:bronx@vertiqalteam.com">bronx@vertiqalteam.com</a>
+								<span><?php echo _L("CONTACT_EMAIL") ?>: </span>
+								<a href="mailto:<?php echo _S("CONTACT_EMAIL") ?>"><?php echo _S("CONTACT_EMAIL") ?></a>
 							</li>
 							<li>
-								<span>Address: </span>
-								2801 Green Lane Baltimore, MD 21201 
+								<span><?php echo _L("CONTACT_ADDRESS") ?>: </span>
+								Km 1 Vía La Ceja-El Retiro<br>Vereda La Milagrosa<br>La Ceja, Antioquia.<br>Colombia.
 							</li>
 						</ul>
 						
@@ -79,7 +79,7 @@
 						
 						<div>
 						
-							<p>&copy; The R Flowers 2016. All Rights Reserved</p>
+							<p>&copy; The R Flowers <?php echo date("Y"); ?>. <?php echo _L("FOOTER_COPYRIGHT") ?></p>
 						
 						</div>
 						
