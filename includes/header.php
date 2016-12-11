@@ -23,25 +23,25 @@
 					<ul class="menu clearfix" id="menu">
 						<li class="<?php echo $actual_page == 'home' ? 'active' : ''?>"><a href="/"><?php echo _L("LANG_HOME") ?></a></li>
 						<li class="<?php echo $actual_page == 'portfolio' ? 'active' : ''?>"><a href="portfolio.php"><?php echo _L("LANG_PORTFOLIO") ?></a></li>
-						<li class="<?php echo $actual_page == 'about-us' ? 'active' : ''?> dropdown">
-							<a href="about-us.php"><?php echo _L("LANG_US") ?></a>
+						<li class="<?php echo $actual_page == 'aboutus' ? 'active' : ''?> dropdown">
+							<a href="aboutus.php"><?php echo _L("LANG_US") ?></a>
 							<ul class="subnav">
 								<li>
-									<a href="<?php echo $actual_page != 'about-us' ? 'about-us.php' : '' ?>#our-company"><?php echo _L("LANG_OUR_COMPANY") ?></a>
+									<a href="<?php echo $actual_page != 'aboutus' ? 'aboutus.php' : '' ?>#our-company"><?php echo _L("LANG_OUR_COMPANY") ?></a>
 								</li>
 								<li>
-									<a href="<?php echo $actual_page != 'about-us' ? 'about-us.php' : '' ?>#why-buy-from-us"><?php echo _L("LANG_WHY_BUY_FROM_US") ?></a>
+									<a href="<?php echo $actual_page != 'aboutus' ? 'aboutus.php' : '' ?>#why-buy-from-us"><?php echo _L("LANG_WHY_BUY_FROM_US") ?></a>
 								</li>
 								<li>
-									<a href="<?php echo $actual_page != 'about-us' ? 'about-us.php' : '' ?>#social-responsability"><?php echo _L("LANG_SOCIAL_RESP") ?></a>
+									<a href="<?php echo $actual_page != 'aboutus' ? 'aboutus.php' : '' ?>#social-responsability"><?php echo _L("LANG_SOCIAL_RESP") ?></a>
 								</li>
 								<li>
-									<a href="<?php echo $actual_page != 'about-us' ? 'about-us.php' : '' ?>#our-farms"><?php echo _L("LANG_OUR_FARMS") ?></a>
+									<a href="<?php echo $actual_page != 'aboutus' ? 'aboutus.php' : '' ?>#our-farms"><?php echo _L("LANG_OUR_FARMS") ?></a>
 								</li>
 							</ul>
 						</li>
 						<li class="<?php echo $actual_page == 'gallery' ? 'active' : ''?>"><a href="gallery.php"><?php echo _L("LANG_GALLERY") ?></a></li>
-						<li class="special-active"><a href="contact.php"><?php echo _L("LANG_CONTACT_US") ?></a></li>
+						<li class="special-active"><a href="contactus.php"><?php echo _L("LANG_CONTACT_US") ?></a></li>
 						
 						<li class="flags">
 							<a class="spanish" href="?lang=es"><img src="images/flags/spanish.png"></img></a>

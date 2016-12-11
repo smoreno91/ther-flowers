@@ -236,7 +236,7 @@
 							</div><!-- col -->
 							<div class="col-sm-3 text-right">
 								
-								<a class="btn btn-default" href="/contact.php"><?php echo _L("LANG_CONTACT_US") ?> <i class="bronx-icon-arrow-right"></i></a>
+								<a class="btn btn-default" href="/contactus.php"><?php echo _L("LANG_CONTACT_US") ?> <i class="bronx-icon-arrow-right"></i></a>
 								
 							</div><!-- col -->
 						</div><!-- row -->

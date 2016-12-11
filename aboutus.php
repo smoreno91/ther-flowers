@@ -1,6 +1,6 @@
 <?php
 	include("includes/config.php");
-	$actual_page = "about-us";
+	$actual_page = "aboutus";
 	$title = _L("LANG_US") . " - The R Flowers";
 	$meta_keywords = "";
 	$meta_description = "";
@@ -17,7 +17,7 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/aboutus/banner-aboutus.jpg);">
+			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/aboutus/banner-aboutus.png);">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
