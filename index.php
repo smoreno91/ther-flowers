@@ -22,7 +22,7 @@
                     <ul>
 						<li data-transition="fade">
 						
-							<img src="images/index/revolution-slider/bg-slide-1.jpg" alt="">
+							<img src="images/home/revolution-slider/bg-slide-1.jpg" alt="">
 							
 							<div class="tp-caption big-title text-center"
                                  data-x="center"
@@ -37,7 +37,7 @@
 						</li>
 						<li data-transition="fade">
 						
-							<img src="images/index/revolution-slider/bg-slide-2.png" alt="">
+							<img src="images/home/revolution-slider/bg-slide-2.png" alt="">
 
                             <div class="tp-caption small-title"
                                  data-x="20"
@@ -64,7 +64,7 @@
 						</li>
 						<li data-transition="fade">
 
-                            <img src="images/index/revolution-slider/bg-slide-3.jpg" alt="">
+                            <img src="images/home/revolution-slider/bg-slide-3.jpg" alt="">
 
 							<div class="tp-caption big-title"
                                  data-x="20"
@@ -121,48 +121,45 @@
 							<div class="item">
 								
 								<div class="row">
-									<div class="col-sm-3">
+									<div class="col-sm-4">
 										
 										<div class="service-box style-1">
 							
-											<img src="images/services/portafolio-1.jpg" alt="">
-											<i class="bronx-icon-banknote"></i>
+											<img src="images/home/blue.png" alt="">
 											
 											<div class="service-box-content">
 												
-												<h6><a href="single-service.html">Financial Advisory</a></h6>
+												<h6><a href="portfolio.php">Blue</a></h6>
 												
 											</div><!-- service-box-content -->
 											
 										</div><!-- service-box -->
 										
 									</div><!-- col -->
-									<div class="col-sm-3">
+									<div class="col-sm-4">
 										
 										<div class="service-box style-1">
 							
-											<img src="images/services/portafolio-2.jpg" alt="">
-											<i class="bronx-icon-vallet"></i>
+											<img src="images/home/mini-green.png" alt="">
 											
 											<div class="service-box-content">
 												
-												<h6><a href="single-service.html">Online Shop</a></h6>
+												<h6><a href="portfolio.php">Mini Green</a></h6>
 												
 											</div><!-- service-box-content -->
 											
 										</div><!-- service-box -->
 										
 									</div><!-- col -->
-									<div class="col-sm-3">
+									<div class="col-sm-4">
 										
 										<div class="service-box style-1">
 							
-											<img src="images/services/portafolio-3.jpg" alt="">
-											<i class="bronx-icon-news"></i>
+											<img src="images/home/white.png" alt="">
 											
 											<div class="service-box-content">
 												
-												<h6><a href="single-service.html">Well Documented</a></h6>
+												<h6><a href="portfolio.php">White</a></h6>
 												
 											</div><!-- service-box-content -->
 											
@@ -170,22 +167,6 @@
 										
 									</div><!-- col -->
 									
-									<div class="col-sm-3">
-										
-										<div class="service-box style-1">
-							
-											<img src="images/services/portafolio-3.jpg" alt="">
-											<i class="bronx-icon-news"></i>
-											
-											<div class="service-box-content">
-												
-												<h6><a href="single-service.html">Well Documented</a></h6>
-												
-											</div><!-- service-box-content -->
-											
-										</div><!-- service-box -->
-										
-									</div><!-- col -->
 								</div><!-- row -->
 								
 							</div><!-- item -->

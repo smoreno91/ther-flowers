@@ -17,7 +17,7 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<div id="page-header" class="parallax2" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-9.jpg);">
+			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/contactus/banner-contactus.png);">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">

@@ -17,7 +17,7 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<div id="page-header" class="parallax2" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-3.jpg);">
+			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/gallery/banner-gallery.jpg);">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -83,45 +83,22 @@
 				<div class="row">
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-5.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-5.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/1.png" data-fancybox-group="gallery"><img src="images/gallery/1.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-6.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-6.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/2.png" data-fancybox-group="gallery"><img src="images/gallery/2.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-7.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-7.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/3.png" data-fancybox-group="gallery"><img src="images/gallery/3.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-8.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-8.jpg" alt=""></a></p>
-						
-					</div><!-- col -->
-				</div><!-- row -->
-				
-				<div class="row">
-					<div class="col-sm-3">
-						
-						<p><a class="fancybox" href="images/portfolio/image-5.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-5.jpg" alt=""></a></p>
-						
-					</div><!-- col -->
-					<div class="col-sm-3">
-						
-						<p><a class="fancybox" href="images/portfolio/image-6.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-6.jpg" alt=""></a></p>
-						
-					</div><!-- col -->
-					<div class="col-sm-3">
-						
-						<p><a class="fancybox" href="images/portfolio/image-7.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-7.jpg" alt=""></a></p>
-						
-					</div><!-- col -->
-					<div class="col-sm-3">
-						
-						<p><a class="fancybox" href="images/portfolio/image-8.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-8.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/4.png" data-fancybox-group="gallery"><img src="images/gallery/4.png" alt=""></a></p>
 						
 					</div><!-- col -->
 				</div><!-- row -->
@@ -129,45 +106,22 @@
 				<div class="row">
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-5.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-5.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/5.png" data-fancybox-group="gallery"><img src="images/gallery/5.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-6.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-6.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/6.png" data-fancybox-group="gallery"><img src="images/gallery/6.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-7.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-7.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/7.png" data-fancybox-group="gallery"><img src="images/gallery/7.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-8.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-8.jpg" alt=""></a></p>
-						
-					</div><!-- col -->
-				</div><!-- row -->
-				
-				<div class="row">
-					<div class="col-sm-3">
-						
-						<p><a class="fancybox" href="images/portfolio/image-5.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-5.jpg" alt=""></a></p>
-						
-					</div><!-- col -->
-					<div class="col-sm-3">
-						
-						<p><a class="fancybox" href="images/portfolio/image-6.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-6.jpg" alt=""></a></p>
-						
-					</div><!-- col -->
-					<div class="col-sm-3">
-						
-						<p><a class="fancybox" href="images/portfolio/image-7.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-7.jpg" alt=""></a></p>
-						
-					</div><!-- col -->
-					<div class="col-sm-3">
-						
-						<p><a class="fancybox" href="images/portfolio/image-8.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-8.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/8.png" data-fancybox-group="gallery"><img src="images/gallery/8.png" alt=""></a></p>
 						
 					</div><!-- col -->
 				</div><!-- row -->
@@ -175,22 +129,68 @@
 				<div class="row">
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-5.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-5.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/9.png" data-fancybox-group="gallery"><img src="images/gallery/9.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-6.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-6.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/10.png" data-fancybox-group="gallery"><img src="images/gallery/10.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-7.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-7.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/11.png" data-fancybox-group="gallery"><img src="images/gallery/11.png" alt=""></a></p>
 						
 					</div><!-- col -->
 					<div class="col-sm-3">
 						
-						<p><a class="fancybox" href="images/portfolio/image-8.jpg" data-fancybox-group="gallery"><img src="images/portfolio/image-8.jpg" alt=""></a></p>
+						<p><a class="fancybox" href="images/gallery/12.png" data-fancybox-group="gallery"><img src="images/gallery/12.png" alt=""></a></p>
+						
+					</div><!-- col -->
+				</div><!-- row -->
+				
+				<div class="row">
+					<div class="col-sm-3">
+						
+						<p><a class="fancybox" href="images/gallery/13.png" data-fancybox-group="gallery"><img src="images/gallery/13.png" alt=""></a></p>
+						
+					</div><!-- col -->
+					<div class="col-sm-3">
+						
+						<p><a class="fancybox" href="images/gallery/14.png" data-fancybox-group="gallery"><img src="images/gallery/14.png" alt=""></a></p>
+						
+					</div><!-- col -->
+					<div class="col-sm-3">
+						
+						<p><a class="fancybox" href="images/gallery/15.png" data-fancybox-group="gallery"><img src="images/gallery/15.png" alt=""></a></p>
+						
+					</div><!-- col -->
+					<div class="col-sm-3">
+						
+						<p><a class="fancybox" href="images/gallery/16.png" data-fancybox-group="gallery"><img src="images/gallery/16.png" alt=""></a></p>
+						
+					</div><!-- col -->
+				</div><!-- row -->
+				
+				<div class="row">
+					<div class="col-sm-3">
+						
+						<p><a class="fancybox" href="images/gallery/17.png" data-fancybox-group="gallery"><img src="images/gallery/17.png" alt=""></a></p>
+						
+					</div><!-- col -->
+					<div class="col-sm-3">
+						
+						<p><a class="fancybox" href="images/gallery/18.png" data-fancybox-group="gallery"><img src="images/gallery/18.png" alt=""></a></p>
+						
+					</div><!-- col -->
+					<div class="col-sm-3">
+						
+						<p><a class="fancybox" href="images/gallery/19.png" data-fancybox-group="gallery"><img src="images/gallery/19.png" alt=""></a></p>
+						
+					</div><!-- col -->
+					<div class="col-sm-3">
+						
+						<p><a class="fancybox" href="images/gallery/20.png" data-fancybox-group="gallery"><img src="images/gallery/20.png" alt=""></a></p>
 						
 					</div><!-- col -->
 				</div><!-- row -->

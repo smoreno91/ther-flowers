@@ -17,7 +17,7 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<div id="page-header" class="parallax2" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-5.jpg);">
+			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/portfolio/banner-portfolio.png);">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -64,11 +64,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-20.jpg" alt="">
+								<img src="images/portfolio/blue.png" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/blue.png">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -76,7 +76,7 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html">Statement Piece</a></h6>
+								<h6>Statement Piece</h6>
 								
 								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
 								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
@@ -97,11 +97,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-21.jpg" alt="">
+								<img src="images/portfolio/mini-green.png" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-21.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/mini-green.png">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -109,7 +109,7 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html">Statement Piece</a></h6>
+								<h6>Statement Piece</h6>
 								
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut lacus rutrum, iaculis dolor 
 								et, iaculis sapien. Morbi orci tortor, tincidunt non aliquet eu, scelerisque eget justo...</p>
@@ -130,11 +130,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-22.jpg" alt="">
+								<img src="images/portfolio/white.png" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-22.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/white.png">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -142,40 +142,7 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html">Statement Piece</a></h6>
-								
-								<p>Vivamus pretium massa in libero consectetur, nec convallis mauris porta. Morbi lacinia tellus arcu, 
-								vitae ultricies nunc varius quis. Integer volutpat blandit ligula. Nullam eu dolor porttitor...</p>
-								
-							</div><!-- portfolio-item-details -->
-							
-						</div><!-- portfolio-item -->
-						
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
-			
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-						
-						<div class="portfolio-item portfolio-classic">
-							
-							<div class="portfolio-item-thumbnail">
-								
-								<img src="images/portfolio/image-23.jpg" alt="">
-								
-								<div class="portfolio-item-hover">
-									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-23.jpg">+</a>
-									
-								</div><!-- portfolio-item-hover -->
-								
-							</div><!-- portfolio-item-thumbnail -->
-							
-							<div class="portfolio-item-details">
-								
-								<h6><a href="portfolio-single.html">Statement Piece</a></h6>
+								<h6>Statement Piece</h6>
 								
 								<p>Vivamus pretium massa in libero consectetur, nec convallis mauris porta. Morbi lacinia tellus arcu, 
 								vitae ultricies nunc varius quis. Integer volutpat blandit ligula. Nullam eu dolor porttitor...</p>

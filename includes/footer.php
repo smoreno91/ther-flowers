@@ -5,7 +5,7 @@
 		
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-4">
+				<div class="col-sm-6">
 
 					<div class="widget widget-text">
 									
@@ -13,14 +13,14 @@
 						
 						<div>
 						
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and.</p>
+							<p><?php echo _L("US_OURCOMPANY_CONTENT") ?></p>
 						
 						</div>
 						
 					</div><!-- widget-text -->
 					
 				</div><!-- col -->
-				<div class="col-sm-4">
+				<div class="col-sm-6">
 					
 					<div class="widget widget-contact">
 				
@@ -44,25 +44,7 @@
 					</div><!-- widget-contact -->
 					
 				</div><!-- col -->
-				<div class="col-sm-4">
-				
-					<div class="widget widget-newsletter">
-						
-						<h6 class="widget-title">Newsletter</h6>
-						
-						<form name="newsletter" method="post" action="#">
-							<fieldset>
-								<input id="newsletter-email" type="email" name="email" placeholder="E-mail">
-								<button type="submit" name="submit" value="">Subscribe <i class="bronx-icon-arrow-right"></i></button>
-							</fieldset>
-						</form>
-						
-						<p><small><em>Subscribe to our newsletter. We will only send you real information. 
-						We promise, we won't spam.</em></small></p>
-						
-					</div><!-- widget-newsletter -->
-				
-				</div><!-- col -->
+
 			</div><!-- row -->
 		</div><!-- container -->
 		

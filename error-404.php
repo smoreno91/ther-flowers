@@ -17,7 +17,6 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<!--<div id="page-header" class="" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-9.jpg);">-->
 			<div id="page-header" class="" data-stellar-background-ratio="0.1">
 				<div class="container">
 					<div class="row">

@@ -17,7 +17,7 @@
 			
 			<?php include("includes/header.php"); ?>
 			
-			<div id="page-header" class="parallax2" data-stellar-background-ratio="0.1" style="background-image:url(images/backgrounds/page-header-1.jpg);">
+			<div id="page-header" class="parallax" data-stellar-background-ratio="0.1" style="background-image:url(images/aboutus/banner-aboutus.jpg);">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
@@ -64,11 +64,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-20.jpg" alt="">
+								<img src="images/aboutus/our-company.png" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/aboutus/our-company.png">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -76,7 +76,7 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html"><?php echo _L("LANG_OUR_COMPANY") ?></a></h6>
+								<h6><?php echo _L("LANG_OUR_COMPANY") ?></h6>
 								
 								<p><?php echo _L("US_OURCOMPANY_CONTENT") ?></p>
 								
@@ -96,7 +96,7 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html"><?php echo _L("LANG_WHY_BUY_FROM_US") ?></a></h6>
+								<h6><?php echo _L("LANG_WHY_BUY_FROM_US") ?></h6>
 								
 								<p><?php echo _L("US_BUYFROMUS_CONTENT") ?></p>
 								
@@ -104,11 +104,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-20.jpg" alt="">
+								<img src="images/aboutus/why-buy-from-us.png" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/aboutus/why-buy-from-us.png">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -128,11 +128,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-20.jpg" alt="">
+								<img src="images/aboutus/social-responsability.png" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/aboutus/social-responsability.png">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
@@ -140,7 +140,7 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html"><?php echo _L("LANG_SOCIAL_RESP") ?></a></h6>
+								<h6><?php echo _L("LANG_SOCIAL_RESP") ?></h6>
 								
 								<p><?php echo _L("US_SOCIALRES_CONTENT") ?></p>
 								
@@ -160,7 +160,7 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6><a href="portfolio-single.html"><?php echo _L("LANG_OUR_FARMS") ?></a></h6>
+								<h6><?php echo _L("LANG_OUR_FARMS") ?></h6>
 								
 								<p><?php echo _L("US_OURFARMS_CONTENT") ?></p>
 								
@@ -168,11 +168,11 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/image-20.jpg" alt="">
+								<img src="images/aboutus/our-farms.png" alt="">
 								
 								<div class="portfolio-item-hover">
 									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/aboutus/our-farms.png">+</a>
 									
 								</div><!-- portfolio-item-hover -->
 								
