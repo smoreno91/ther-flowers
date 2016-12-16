@@ -4,30 +4,30 @@
         <loc>http://www.therflowers.com/</loc>
         <priority>1.0</priority>
         <changefreq>monthly</changefreq>
-        <lastmod>2009-11-30</lastmod>
+        <lastmod>2016-12-15</lastmod>
     </url>
     <url>
         <loc>http://www.therflowers.com/contactus.php</loc>
         <priority>0.8</priority>
         <changefreq>monthly</changefreq>
-        <lastmod>2009-11-30</lastmod>
+        <lastmod>2016-12-15</lastmod>
     </url>
     <url>
         <loc>http://www.therflowers.com/portfolio.php</loc>
         <priority>0.8</priority>
         <changefreq>monthly</changefreq>
-        <lastmod>2009-11-30</lastmod>
+        <lastmod>2016-12-15</lastmod>
     </url>
     <url>
         <loc>http://www.therflowers.com/aboutus.php</loc>
         <priority>0.5</priority>
         <changefreq>monthly</changefreq>
-        <lastmod>2009-11-30</lastmod>
+        <lastmod>2016-12-15</lastmod>
     </url>
     <url>
         <loc>http://www.therflowers.com/gallery.php</loc>
         <priority>0.5</priority>
         <changefreq>monthly</changefreq>
-        <lastmod>2009-11-30</lastmod>
+        <lastmod>2016-12-15</lastmod>
     </url>
 </urlset>
