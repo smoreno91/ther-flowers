@@ -1,7 +1,7 @@
 <?php
 	include("includes/config.php");
 	$actual_page = "error";
-	$title = _L("LANG_ERROR") . " - The R Flowers";
+	$title = _L("LANG_ERROR") . " - " . _L("SITE_NAME");
 	$meta_keywords = "";
 	$meta_description = "";
 	
@@ -41,17 +41,11 @@
 				<div class="row">
 					<div class="col-sm-offset-1 col-sm-10">
 						
-						<h3>The page you are looking for does not exist</h3>
+						<h3><?php echo _L("ERROR_404") ?></h3>
 						
 						<br>
 						
-						<p>Integer eu velit orci. Cum sociis natoque penatibus et magnis dis parturient montes, 
-						nascetur ridiculus mus. Vestibulum efficitur elementum elementum. Maecenas egestas ligula 
-						eros, at fermentum ante porta ut. Ut pellentesque orci at lorem scelerisque dignissim.</p>
-						
-						<br>
-						
-						<a class="btn btn-default" href="index.html">Take me home <i class="bronx-icon-arrow-right"></i></a>
+						<a class="btn btn-default" href="/"><?php echo _L("LANG_HOME") ?> <i class="bronx-icon-arrow-right"></i></a>
 						
 					</div><!-- col -->
 				</div><!-- row -->

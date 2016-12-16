@@ -9,7 +9,7 @@
 
 					<div class="widget widget-text">
 									
-						<h6 class="widget-title"><span class="text-default-color">The R Flowers</span></h6>
+						<h6 class="widget-title"><span class="text-default-color"><?php echo _L("SITE_NAME") ?></span></h6>
 						
 						<div>
 						
@@ -61,7 +61,7 @@
 						
 						<div>
 						
-							<p>&copy; The R Flowers <?php echo date("Y"); ?>. <?php echo _L("FOOTER_COPYRIGHT") ?></p>
+							<p>&copy; <?php echo _L("SITE_NAME") ?> <?php echo date("Y"); ?>. <?php echo _L("FOOTER_COPYRIGHT") ?></p>
 						
 						</div>
 						

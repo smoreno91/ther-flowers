@@ -1,7 +1,7 @@
 <?php
 	include("includes/config.php");
 	$actual_page = "portfolio";
-	$title = _L("LANG_PORTFOLIO") . " - The R Flowers";
+	$title = _L("LANG_PORTFOLIO") . " - " . _L("SITE_NAME");
 	$meta_keywords = "";
 	$meta_description = "";
 	
@@ -23,11 +23,6 @@
 						<div class="col-sm-12">
 							
 							<h1><?php echo _L("LANG_PORTFOLIO"); ?></h1>
-							
-							<ol class="breadcrumb">
-								<li><a href="#"><?php echo _L("LANG_HOME"); ?></a></li>
-								<li class="active"><?php echo _L("LANG_PORTFOLIO"); ?></li>
-							</ol>
 							
 							<a class="go-to-section" href="#page-content"><i class="bronx-icon-mouse"></i></a>
 							
@@ -55,41 +50,8 @@
                     </div><!-- col -->
                 </div><!-- row -->
             </div><!-- container -->
-			
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-						
-						<div class="portfolio-item portfolio-classic">
-							
-							<div class="portfolio-item-thumbnail">
-								
-								<img src="images/portfolio/blue.png" alt="">
-								
-								<div class="portfolio-item-hover">
-									
-									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/blue.png">+</a>
-									
-								</div><!-- portfolio-item-hover -->
-								
-							</div><!-- portfolio-item-thumbnail -->
-							
-							<div class="portfolio-item-details">
-								
-								<h6>Statement Piece</h6>
-								
-								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
-								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
-								
-							</div><!-- portfolio-item-details -->
-							
-						</div><!-- portfolio-item -->
-						
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
-			
-			<div class="container">
+            
+            <div class="container">
 				<div class="row">
 					<div class="col-sm-12">
 						
@@ -109,7 +71,7 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6>Statement Piece</h6>
+								<h6>Mini Green</h6>
 								
 								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut lacus rutrum, iaculis dolor 
 								et, iaculis sapien. Morbi orci tortor, tincidunt non aliquet eu, scelerisque eget justo...</p>
@@ -142,10 +104,43 @@
 							
 							<div class="portfolio-item-details">
 								
-								<h6>Statement Piece</h6>
+								<h6>White</h6>
 								
 								<p>Vivamus pretium massa in libero consectetur, nec convallis mauris porta. Morbi lacinia tellus arcu, 
 								vitae ultricies nunc varius quis. Integer volutpat blandit ligula. Nullam eu dolor porttitor...</p>
+								
+							</div><!-- portfolio-item-details -->
+							
+						</div><!-- portfolio-item -->
+						
+					</div><!-- col -->
+				</div><!-- row -->
+			</div><!-- container -->
+			
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						
+						<div class="portfolio-item portfolio-classic">
+							
+							<div class="portfolio-item-thumbnail">
+								
+								<img src="images/portfolio/blue.png" alt="">
+								
+								<div class="portfolio-item-hover">
+									
+									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/blue.png">+</a>
+									
+								</div><!-- portfolio-item-hover -->
+								
+							</div><!-- portfolio-item-thumbnail -->
+							
+							<div class="portfolio-item-details">
+								
+								<h6>Blue</h6>
+								
+								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
+								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
 								
 							</div><!-- portfolio-item-details -->
 							

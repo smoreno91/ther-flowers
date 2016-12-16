@@ -117,10 +117,10 @@
 		$(window).scroll(function(){
 			
 			if ($(window).scrollTop() > sticky_point) {  
-				$("#header-sticky").slideDown(300).addClass("header-sticky");
+				$("#header-sticky").slideDown(10).addClass("header-sticky");
 				$("#header .menu ul, #header .menu .megamenu-container").css({"visibility": "hidden"});
 			} else {
-				$("#header-sticky").slideUp(100).removeClass("header-sticky");
+				$("#header-sticky").slideUp(10).removeClass("header-sticky");
 				$("#header .menu ul, #header .menu .megamenu-container").css({"visibility": "visible"});
 			}
 			

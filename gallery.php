@@ -1,7 +1,7 @@
 <?php
 	include("includes/config.php");
 	$actual_page = "gallery";
-	$title = _L("LANG_GALLERY") . " - The R Flowers";
+	$title = _L("LANG_GALLERY") . " - " . _L("SITE_NAME");
 	$meta_keywords = "";
 	$meta_description = "";
 	
@@ -23,11 +23,6 @@
 						<div class="col-sm-12">
 							
 							<h1><?php echo _L("LANG_GALLERY") ?></h1>
-							
-							<ol class="breadcrumb">
-								<li><a href="#"><?php echo _L("LANG_HOME") ?></a></li>
-								<li class="active"><?php echo _L("LANG_GALLERY") ?></li>
-							</ol>
 							
 							<a class="go-to-section" href="#page-content"><i class="bronx-icon-mouse"></i></a>
 							

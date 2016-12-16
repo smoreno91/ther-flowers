@@ -1,7 +1,7 @@
 <?php
 	include("includes/config.php");
 	$actual_page = "home";
-	$title = _L("LANG_HOME") . " - The R Flowers";
+	$title = _L("LANG_HOME") . " - " . _L("SITE_NAME");
 	$meta_keywords = "";
 	$meta_description = "";
 
@@ -76,17 +76,6 @@
 								 Business with <br> a touch of <span class="text-default-color">color</span>
                             </div>
 							
-							<div class="tp-caption"
-                                 data-x="20"
-                                 data-y="center"
-								 data-voffset="160"
-                                 data-speed="700"
-                                 data-start="1800"
-                                 data-transform_in="y:100;s:700;"
-                                 data-transform_out="y:100;s:700;">
-								 <a class="btn btn-default" href="#">Discover More <i class="bronx-icon-arrow-right"></i></a>
-                            </div>
-							
 						</li>
 					</ul>
 				</div><!-- rev_slider -->
@@ -125,21 +114,6 @@
 										
 										<div class="service-box style-1">
 							
-											<img src="images/home/blue.png" alt="">
-											
-											<div class="service-box-content">
-												
-												<h6><a href="portfolio.php">Blue</a></h6>
-												
-											</div><!-- service-box-content -->
-											
-										</div><!-- service-box -->
-										
-									</div><!-- col -->
-									<div class="col-sm-4">
-										
-										<div class="service-box style-1">
-							
 											<img src="images/home/mini-green.png" alt="">
 											
 											<div class="service-box-content">
@@ -160,6 +134,21 @@
 											<div class="service-box-content">
 												
 												<h6><a href="portfolio.php">White</a></h6>
+												
+											</div><!-- service-box-content -->
+											
+										</div><!-- service-box -->
+										
+									</div><!-- col -->
+									<div class="col-sm-4">
+										
+										<div class="service-box style-1">
+							
+											<img src="images/home/blue.png" alt="">
+											
+											<div class="service-box-content">
+												
+												<h6><a href="portfolio.php">Blue</a></h6>
 												
 											</div><!-- service-box-content -->
 											
@@ -231,7 +220,7 @@
 						<div class="row">
 							<div class="col-sm-9">
 								
-								<h3 class="last"><?php echo _L("HOME_DO_YOU_LIKE") ?></h3>
+								<h3 class="last"><?php echo _L("HOME_DO_YOU_LIKE") ?> <?php echo _L("SITE_NAME") ?>?</h3>
 								
 							</div><!-- col -->
 							<div class="col-sm-3 text-right">

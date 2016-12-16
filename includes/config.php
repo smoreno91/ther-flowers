@@ -35,6 +35,7 @@ function _S($setting){
 function _L($phrase){
     
     $_L = array(
+        'SITE_NAME'             => array('en' => 'The R Flowers', 'es' => 'The R Flowers'),
         'LANG_HOME'             => array('en' => 'Home', 'es' => 'Home'),
         'LANG_PORTFOLIO'        => array('en' => 'Portfolio', 'es' => 'Portafolio'),
         'LANG_US'               => array('en' => 'About us', 'es' => 'Nosotros'),
@@ -46,7 +47,7 @@ function _L($phrase){
         'LANG_SOCIAL_RESP'      => array('en' => 'Corporate social responsability', 'es' => 'Responsabilidad social'),
         'LANG_OUR_FARMS'        => array('en' => 'Our farms', 'es' => 'Nuestras fincas'),
         'FOOTER_COPYRIGHT'      => array('en' => 'All Rights Reserved', 'es' => 'Todos los derechos reservados'),
-        'HOME_DO_YOU_LIKE'      => array('en' => 'Do you like The R Flowers?', 'es' => '¿Te gusta The R Flowers?'),
+        'HOME_DO_YOU_LIKE'      => array('en' => 'Do you like', 'es' => '¿Te gusta '),
         'US_OURCOMPANY_CONTENT' => array(
             'en' => 'We are a local farm located in La Ceja-Antioquia, a region with the perfect conditions to growth high quality Hydrangeas.  We specialize in growth high quality Hydrangeas in order to satisfy our clients needings.',
             'es' => 'Somos una finca productora de Hydrangeas ubicada en el municipio de La Ceja-Antioquia, el lugar perfecto para cultivar flores de excelente calidad. Nos especializamos en cultivar Hydrangeas de la mejor calidad para satisfacer las necesidades y deseos de nuestros clientes'
@@ -73,7 +74,7 @@ function _L($phrase){
         'CONTACT_PHONE'         => array('en' => 'Phone', 'es' => 'Teléfono'),
         'CONTACT_EMAIL'         => array('en' => 'E-mail', 'es' => 'Email'),
         'CONTACT_ADDRESS'       => array('en' => 'Address', 'es' => 'Dirección'),
-        ''  => array('en' => '', 'es' => ''),
+        'ERROR_404'             => array('en' => 'The page you are looking for does not exist', 'es' => 'La página que estas buscando no existe'),
         ''  => array('en' => '', 'es' => ''),
         ''  => array('en' => '', 'es' => ''),
         ''  => array('en' => '', 'es' => ''),
