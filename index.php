@@ -2,8 +2,8 @@
 	include("includes/config.php");
 	$actual_page = "home";
 	$title = _L("LANG_HOME") . " - " . _L("SITE_NAME");
-	$meta_keywords = "";
-	$meta_description = "";
+	$meta_keywords = "Hydrangea, Hortensia, Flores, Flowers, Flor, Antioquia,  Colombia, Cultivo, Crop, Plantation, Fresh, Naturaleza, Nature, Campo, Finca, Farm, Tallo, Copa, Ramiflores, Quality, Mini Green, Select, Extra, Jumbo, White, Blue, Premium";
+	$meta_description = "We are a local farm situated in La Ceja-Antioquia. We specialize in produce high quality Hydrangeas in order to satisfy our clients needs. What make us different from the others is the fact that we really love what we do. Contact us now! ";
 
  	include('includes/head.php')
 ?>
@@ -25,13 +25,13 @@
 							<img src="images/home/revolution-slider/bg-slide-1.jpg" alt="">
 							
 							<div class="tp-caption big-title text-center"
-                                 data-x="center"
-                                 data-y="300"
-                                 data-speed="700"
-                                 data-start="1800"
-                                 data-transform_in="o:0;y:-100;s:700;"
-                                 data-transform_out="o:0;y:-100;s:700;">
-								 Expressing quality <br> through flowers
+                                data-x="center"
+                                data-y="300"
+                                data-speed="700"
+                                data-start="1800"
+                                data-transform_in="o:0;y:-100;s:700;"
+                                data-transform_out="o:0;y:-100;s:700;">
+								<?php echo _L("HOME_SLIDER_1"); ?>
                             </div>
 							
 						</li>
@@ -39,26 +39,15 @@
 						
 							<img src="images/home/revolution-slider/bg-slide-2.png" alt="">
 
-                            <div class="tp-caption small-title"
-                                 data-x="20"
-                                 data-y="center"
-								 data-voffset="-25"
-                                 data-speed="700"
-                                 data-start="2100"
-                                 data-transform_in="x:-50;s:700;"
-                                 data-transform_out="x:-50;s:700;">
-								 Watch our event live
-                            </div> 
-							
-							<div class="tp-caption text"
-                                 data-x="20"
-                                 data-y="center"
-								 data-voffset="35"
-                                 data-speed="700"
-                                 data-start="2450"
-                                 data-transform_in="y:-50;s:700;"
-                                 data-transform_out="y:-50;s:700;">
-								 A multitude of ideas in a one day seminary
+                            <div class="tp-caption big-title"
+                                data-x="20"
+                                data-y="center"
+								data-voffset="-25"
+                                data-speed="700"
+                                data-start="2100"
+                                data-transform_in="x:-50;s:700;"
+                                data-transform_out="x:-50;s:700;">
+                            	<?php echo _L("HOME_SLIDER_2"); ?>
                             </div> 
 							
 						</li>
@@ -67,13 +56,13 @@
                             <img src="images/home/revolution-slider/bg-slide-3.jpg" alt="">
 
 							<div class="tp-caption big-title"
-                                 data-x="20"
-                                 data-y="center"
-                                 data-speed="700"
-                                 data-start="1400"
-                                 data-transform_in="x:-100;s:700;"
-                                 data-transform_out="x:-100;s:700;">
-								 Business with <br> a touch of <span class="text-default-color">color</span>
+                                data-x="20"
+                                data-y="center"
+                                data-speed="700"
+                                data-start="1400"
+                                data-transform_in="x:-100;s:700;"
+                                data-transform_out="x:-100;s:700;">
+								<?php echo _L("HOME_SLIDER_3"); ?>
                             </div>
 							
 						</li>
@@ -114,7 +103,7 @@
 										
 										<div class="service-box style-1">
 							
-											<img src="images/home/mini-green.png" alt="">
+											<a href="portfolio.php"><img src="images/home/mini-green.png" alt="Mini Green"></a>
 											
 											<div class="service-box-content">
 												
@@ -129,7 +118,7 @@
 										
 										<div class="service-box style-1">
 							
-											<img src="images/home/white.png" alt="">
+											<a href="portfolio.php"><img src="images/home/white.png" alt="White"></a>
 											
 											<div class="service-box-content">
 												
@@ -144,7 +133,7 @@
 										
 										<div class="service-box style-1">
 							
-											<img src="images/home/blue.png" alt="">
+											<a href="portfolio.php"><img src="images/home/blue.png" alt="Blue"></a>
 											
 											<div class="service-box-content">
 												
@@ -173,7 +162,7 @@
 						<div class="row">
 							<div class="col-sm-12">
 								
-								<h1>We <span class="text-default-color">like</span> to make things <br class="hidden-xs hidden-sm"> easy and fun</h1>
+								<h1><?php echo _L("HOME_SECTION_DOWN") ?></h1>
 								
 							</div><!-- col -->
 						</div><!-- row -->
@@ -185,11 +174,11 @@
 						<div class="row">
 							<div class="col-sm-7">
 								
-								<p>Nulla non maximus neque. Duis ut orci sit amet ex iaculis euismod rutrum sit amet 
+								<!--<p>Nulla non maximus neque. Duis ut orci sit amet ex iaculis euismod rutrum sit amet 
 								purus. Maecenas a leo id nisl porta dictum semper vel elit. Etiam feugiat diam congue 
 								ornare scelerisque. Nunc nec lacus nibh. Cras ligula leo, condimen tum at sapien ut, 
 								vehicula elementum felis. Suspendisse volutpat arcu ut quam mollis efficitur. Phasellus 
-								condimentum eros lectus.</p>
+								condimentum eros lectus.</p>-->
 								
 
 							</div><!-- col -->
@@ -201,7 +190,7 @@
 						<div class="row">
 							<div class="col-sm-12">
 								
-								<a class="btn btn-default" href="#">Discover more about what we do <i class="bronx-icon-arrow-right"></i></a>
+								<a class="btn btn-default" href="aboutus.php"><?php echo _L("HOME_SECTION_DOWN_LINK") ?> <i class="bronx-icon-arrow-right"></i></a>
 								
 							</div><!-- col -->
 						</div><!-- row -->

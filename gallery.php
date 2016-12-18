@@ -2,8 +2,8 @@
 	include("includes/config.php");
 	$actual_page = "gallery";
 	$title = _L("LANG_GALLERY") . " - " . _L("SITE_NAME");
-	$meta_keywords = "";
-	$meta_description = "";
+	$meta_keywords = "Hydrangea, Hortensia, Flores, Flowers, Flor, Antioquia,  Colombia, Cultivo, Crop, Plantation, Fresh, Naturaleza, Nature, Campo, Finca, Farm, Tallo, Copa, Ramiflores, Quality, Mini Green, Select, Extra, Jumbo, White, Blue, Premium";
+	$meta_description = "We have three different farms where we produce the 100% of the flowers that we sell, that can guarantees the quality of our Hydrangeas.  Contact us now!";
 	
 	include('includes/head.php')
 ?>
@@ -50,29 +50,6 @@
 					</div><!-- col -->
 				</div><!-- row -->
 			</div><!-- container -->
-			
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-						
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur auctor ultrices. Nam neque sem, aliquam 
-						non pretium nec, ultricies quis arcu. Aenean quis justo lacus. Pellentesque iaculis convallis elit, eu ornare ex 
-						tincidunt vitae. Ut nulla purus, porttitor sit amet dignissim ac, ultricies sit amet ex. Quisque id mauris ut sapien 
-						fringilla viverra. Phasellus vulputate rutrum convallis. Nunc eu leo felis. Integer dui sem, pharetra eu neque 
-						vitae, scelerisque rutrum velit. In hac habitasse platea dictumst. Phasellus auctor id orci in scelerisque. 
-						Pellentesque eleifend odio at pellentesque ultrices. Praesent non ex et orci mollis iaculis. Phasellus lacinia 
-						vulputate. </p>
-						
-						<p>Nullam hendrerit, lectus eget eleifend laoreet, ex est suscipit ipsum, lobortis imperdiet eros ex non mi. Mauris 
-						efficitur congue tempus. Aenean tempus tellus ac quam placerat, nec dapibus odio semper. In at scelerisque leo. 
-						Proin luctus nunc diam, eu fermentum lacus scelerisque ac. Sed fermentum ligula at nulla tincidunt, id fringilla 
-						nunc tincidunt. Etiam vel tortor vulputate, iaculis velit eu, accumsan metus. Morbi porttitor euismod vulputate.</p>
-						
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
-			
-			<br>
 			
 			<div class="container">
 				<div class="row">
@@ -190,26 +167,8 @@
 					</div><!-- col -->
 				</div><!-- row -->
 			</div><!-- container -->
-			
-			<br>
-			
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
-						
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur auctor ultrices. Nam neque sem, aliquam 
-						non pretium nec, ultricies quis arcu. Aenean quis justo lacus. Pellentesque iaculis convallis elit, eu ornare ex 
-						tincidunt vitae. Ut nulla purus, porttitor sit amet dignissim ac, ultricies sit amet ex. Quisque id mauris ut sapien 
-						fringilla viverra. Phasellus vulputate rutrum convallis. Nunc eu leo felis. Integer dui sem, pharetra eu neque 
-						vitae, scelerisque rutrum velit. In hac habitasse platea dictumst. Phasellus auctor id orci in scelerisque. 
-						Pellentesque eleifend odio at pellentesque ultrices. Praesent non ex et orci mollis iaculis. Phasellus lacinia 
-						vulputate. </p>
-						
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
-			
-			<br><br><br>
+
+			<br><br>
 			
 		</div><!-- PAGE CONTENT -->
 		

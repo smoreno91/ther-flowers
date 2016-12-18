@@ -2,8 +2,8 @@
 	include("includes/config.php");
 	$actual_page = "aboutus";
 	$title = _L("LANG_US") . " - " . _L("SITE_NAME");
-	$meta_keywords = "";
-	$meta_description = "";
+	$meta_keywords = "Hydrangea, Hortensia, Flores, Flowers, Flor, Antioquia,  Colombia, Cultivo, Crop, Plantation, Fresh, Naturaleza, Nature, Campo, Finca, Farm, Tallo, Copa, Ramiflores, Quality, Mini Green, Select, Extra, Jumbo, White, Blue, Premium";
+	$meta_description = "We love what we do, and the quality of our Hydrangeas show that. Click here to know a Little bit more about our Company. Contact us now!";
 
 	include('includes/head.php')
 ?>

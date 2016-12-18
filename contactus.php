@@ -2,8 +2,8 @@
 	include("includes/config.php");
 	$actual_page = "contact";
 	$title = _L("LANG_CONTACT_US") . " - " . _L("SITE_NAME");
-	$meta_keywords = "";
-	$meta_description = "";
+	$meta_keywords = "Hydrangea, Hortensia, Flores, Flowers, Flor, Antioquia,  Colombia, Cultivo, Crop, Plantation, Fresh, Naturaleza, Nature, Campo, Finca, Farm, Tallo, Copa, Ramiflores, Quality, Mini Green, Select, Extra, Jumbo, White, Blue, Premium";
+	$meta_description = "Contact us now! Phone: (+57)3004208483 – Email: ramifloreslaceja@hotmail.com -  Km 1 Vía La Ceja-El Retiro, Vereda La Milagrosa, La Ceja-Antioquia. Colombia.";
 	
 	include('includes/head.php')
 ?>

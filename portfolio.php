@@ -2,8 +2,8 @@
 	include("includes/config.php");
 	$actual_page = "portfolio";
 	$title = _L("LANG_PORTFOLIO") . " - " . _L("SITE_NAME");
-	$meta_keywords = "";
-	$meta_description = "";
+	$meta_keywords = "Hydrangea, Hortensia, Flores, Flowers, Flor, Antioquia,  Colombia, Cultivo, Crop, Plantation, Fresh, Naturaleza, Nature, Campo, Finca, Farm, Tallo, Copa, Ramiflores, Quality, Mini Green, Select, Extra, Jumbo, White, Blue, Premium";
+	$meta_description = "High quality Hydrangeas. Mini Green- Hydrangea Select- Hydrangea Extra- Hydrangea Jumbo. Contact us now! ";
 	
 	include('includes/head.php')
 ?>
@@ -59,7 +59,7 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/mini-green.png" alt="">
+								<img src="images/portfolio/mini-green.png" alt="Mini Green">
 								
 								<div class="portfolio-item-hover">
 									
@@ -73,8 +73,7 @@
 								
 								<h6>Mini Green</h6>
 								
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut lacus rutrum, iaculis dolor 
-								et, iaculis sapien. Morbi orci tortor, tincidunt non aliquet eu, scelerisque eget justo...</p>
+								<p>Head Size: 9-12 cm<br>Packing: QB x 40st</p>
 								
 							</div><!-- portfolio-item-details -->
 							
@@ -92,7 +91,7 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/white.png" alt="">
+								<img src="images/portfolio/white.png" alt="White">
 								
 								<div class="portfolio-item-hover">
 									
@@ -106,8 +105,9 @@
 								
 								<h6>White</h6>
 								
-								<p>Vivamus pretium massa in libero consectetur, nec convallis mauris porta. Morbi lacinia tellus arcu, 
-								vitae ultricies nunc varius quis. Integer volutpat blandit ligula. Nullam eu dolor porttitor...</p>
+								<p>-Select:<br>Head Size: 16-19 cms<br>Packing: QB x 40 st</p>
+								<p>-Extra:<br>Head Size: 20-22 cms<br>Packing: QB x 30 st</p>
+								<p>-Jumbo:<br>Head Size: 23 cms +</p>
 								
 							</div><!-- portfolio-item-details -->
 							
@@ -125,7 +125,7 @@
 							
 							<div class="portfolio-item-thumbnail">
 								
-								<img src="images/portfolio/blue.png" alt="">
+								<img src="images/portfolio/blue.png" alt="Blue">
 								
 								<div class="portfolio-item-hover">
 									
@@ -139,8 +139,9 @@
 								
 								<h6>Blue</h6>
 								
-								<p>Proin aliquam orci sed fringilla suscipit. Integer accumsan sodales mi tempus consectetur. 
-								Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus...</p>
+								<p>-Select:<br>Head Size: 16-19 cms<br>Packing: QB x 40 st</p>
+								<p>-Extra:<br>Head Size: 20-22 cms<br>Packing: QB x 30 st</p>
+								<p>-Jumbo:<br>Head Size: 23 cms +<br>Packing: QB x 20 st</p>
 								
 							</div><!-- portfolio-item-details -->
 							

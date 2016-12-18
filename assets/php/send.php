@@ -44,7 +44,7 @@
 	
 		if(!$error)
 		{
-			$mail = @mail($destination, "[The R Flowers] - Message from Contact us", "A new message has been sent from the page therflowers.com: <br>" . $subject . "<br>" . $message,
+			$mail = @mail($destination, "[Ramiflores] - Message from Contact us", "A new message has been sent from the page therflowers.com: <br>" . $subject . "<br>" . $message,
 				 "From: ".$name." <".$email.">\r\n"
 				."Reply-To: ".$email."\r\n"
 				."Return-Path: " .$email. "\r\n"
