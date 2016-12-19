@@ -105,9 +105,9 @@
 								
 								<h6>White</h6>
 								
-								<p>-Select:<br>Head Size: 16-19 cms<br>Packing: QB x 40 st</p>
-								<p>-Extra:<br>Head Size: 20-22 cms<br>Packing: QB x 30 st</p>
-								<p>-Jumbo:<br>Head Size: 23 cms +</p>
+								<p><b>- Select:</b><br>Head Size: 16-19 cms<br>Packing: QB x 40 st</p>
+								<p><b>- Extra:</b><br>Head Size: 20-22 cms<br>Packing: QB x 30 st</p>
+								<p><b>- Jumbo:</b><br>Head Size: 23 cms +<br>Packing: QB x 20 st</p>
 								
 							</div><!-- portfolio-item-details -->
 							
@@ -139,9 +139,9 @@
 								
 								<h6>Blue</h6>
 								
-								<p>-Select:<br>Head Size: 16-19 cms<br>Packing: QB x 40 st</p>
-								<p>-Extra:<br>Head Size: 20-22 cms<br>Packing: QB x 30 st</p>
-								<p>-Jumbo:<br>Head Size: 23 cms +<br>Packing: QB x 20 st</p>
+								<p><b>- Select:</b><br>Head Size: 16-19 cms<br>Packing: QB x 40 st</p>
+								<p><b>- Extra:</b><br>Head Size: 20-22 cms<br>Packing: QB x 30 st</p>
+								<p><b>- Jumbo:</b><br>Head Size: 23 cms +<br>Packing: QB x 20 st</p>
 								
 							</div><!-- portfolio-item-details -->
 							
