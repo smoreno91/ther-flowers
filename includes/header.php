@@ -6,6 +6,7 @@
 				
 				<!-- LOGO -->
 				<div id="logo">
+					<span class="helper"></span>
 					<a href="/">
 						<img src="assets/images/logo.png" alt="">
 					</a>
