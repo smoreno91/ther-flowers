@@ -53,7 +53,7 @@
 	h6 {
 		margin: 0;
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 	}
 	
 	h1 {
@@ -232,7 +232,7 @@
 		border: none;
 		background-color: #99d4b4;
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 16px;
 		-webkit-transition: all 0.3s;
 				transition: all 0.3s;
@@ -289,7 +289,7 @@
 	
 	.dropcap {
 		float: left;
-		font-family: "Montserrat", serif;
+		font-family: "Helvetica Neue", "Montserrat", serif;
 		font-size: 36px;
 		line-height: 58px;
 		font-weight: 700;
@@ -344,7 +344,7 @@
 	.headline p {
 		margin-bottom: 0;
 		color: #99d4b4;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		text-transform: uppercase;
 	}
 	
@@ -369,7 +369,7 @@
 	}
 	
 	.text-parallax h1 {
-		font-family: "Open Sans", sans-serif;
+		font-family: "Helvetica Neue", "Open Sans", sans-serif;
 		font-size: 172px;
 		line-height: 142px;
 	}
@@ -383,7 +383,7 @@
 		border: none;
 		border-radius: 0;
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 16px;
 		text-align: center;
 	}
@@ -533,7 +533,7 @@
 		border-radius: 0;
 		margin-bottom: 20px;
 		background-color: transparent;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 16px;
 		-webkit-transition: all 0.3s;
 				transition: all 0.3s;
@@ -894,7 +894,7 @@
 		border-radius: 0;
 		background-color: #36394a;
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 16px;
 		-webkit-transition: all 0.3s;
 				transition: all 0.3s;
@@ -1148,7 +1148,7 @@
 		left: 0;
 		width: 100%;
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 48px;
 		line-height: 48px;
 		-webkit-transform: translateY(-50%);
@@ -1211,7 +1211,7 @@
 	
 	.counter-value {
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 48px;
 		line-height: 60px;
 	}
@@ -1226,7 +1226,7 @@
 	
 	.counter-details {
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 18px;
 	}
 	
@@ -1242,7 +1242,7 @@
 	
 	.counter.style-2 .counter-value {
 		margin-bottom: 15px;
-		font-family: "Open Sans", sans-serif;
+		font-family: "Helvetica Neue", "Open Sans", sans-serif;
 		font-size: 60px;
 		line-height: 60px;
 	}
@@ -1274,7 +1274,7 @@
 	.countdown > div {
 		display: inline-block;
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 92px;
 		line-height: 92px;
 	}
@@ -1395,7 +1395,7 @@
 	
 	blockquote:before {
 		display: block;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 48px;
 		font-weight: 700;
 		font-style: normal;
@@ -1414,7 +1414,7 @@
 	
 	.testimonial blockquote {
 		margin-bottom: 15px;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 18px;
 		font-style: normal;
 	}
@@ -1519,7 +1519,7 @@
 	.filter li a {
 		display: block;
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 16px;
 		text-decoration: none;
 		-webkit-transition: all 0.3s;
@@ -1618,7 +1618,7 @@
 		border: none;
 		background-color: transparent;
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 20px;
 		-webkit-transition: all 0.3s;
 				transition: all 0.3s;
@@ -1664,7 +1664,7 @@
 		background-color: transparent;
 		margin: 0;
 		padding: 0;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 20px;
 	}
 
@@ -1755,7 +1755,7 @@
 		border-radius: 50%;
 		background-color: #99d4b4;
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 18px;
 		text-align: center;
 	}
@@ -2102,7 +2102,7 @@
 		text-align: center;
 		background-color: #99d4b4;
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 16px;
 		line-height: 230px;
 		text-transform: uppercase;
@@ -2605,14 +2605,14 @@
 	
 	.tp-caption.small-title {
 		color: #99d4b4;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 60px;
 		line-height: 60px;
 	}
 	
 	.tp-caption.text {
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 24px;
 		line-height: 24px;
 	}
@@ -2804,7 +2804,7 @@
 		position: absolute;
 		top: 40%;
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 16px;
 		text-transform: uppercase;
 		cursor: pointer;
@@ -2891,7 +2891,7 @@
 		position: absolute;
 		top: 40%;
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		font-size: 16px;
 		text-transform: uppercase;
 		cursor: pointer;
@@ -3393,7 +3393,7 @@
 	
 	.widget-recent-posts > ul li .post-title {
 		color: #363636;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 		-webkit-transition: all 0.3s;
 				transition: all 0.3s;
 	}
@@ -3625,7 +3625,7 @@
 		top: 0;
 		left: 0;
 		color: #99d4b4;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Helvetica Neue", "Montserrat", sans-serif;
 	}
 	
 	.widget-contact ul li a {
