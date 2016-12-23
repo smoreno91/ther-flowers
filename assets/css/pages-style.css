@@ -133,17 +133,20 @@
 	
 	@media (min-width: 1200px) {
 		
+		#logo {
+			height: 125px;
+		}
 		#header-sticky:not(.header-sticky) #logo {
 			display: table;
     		height: 125px;
     		text-align: center;
 		}
+		#header-sticky.header-sticky #logo {
+    		height: auto;
+		}
 		#header-sticky:not(.header-sticky) #logo a {
 			display: table-cell;
   			vertical-align: middle;
-		}
-		#logo {
-			height: 125px;
 		}
 	}
 	
