@@ -41,7 +41,7 @@ function _L($phrase){
         'LANG_ERROR'            => array('en' => '404', 'es' => '404'),
         'LANG_OUR_COMPANY'      => array('en' => 'Our company', 'es' => 'Nuestra compañia'),
         'LANG_WHY_BUY_FROM_US'  => array('en' => 'Why buy from us?', 'es' => '¿Por qué preferirnos?'),
-        'LANG_SOCIAL_RESP'      => array('en' => 'Corporate social responsability', 'es' => 'Responsabilidad social'),
+        'LANG_SOCIAL_RESP'      => array('en' => 'Corporate social responsibility', 'es' => 'Responsabilidad social'),
         'LANG_OUR_FARMS'        => array('en' => 'Our farms', 'es' => 'Nuestras fincas'),
         'FOOTER_COPYRIGHT'      => array('en' => 'All Rights Reserved', 'es' => 'Todos los derechos reservados'),
         'HOME_SLIDER_1'         => array('en' => 'Expressing quality <br> through flowers', 'es' => 'Expresando calidad <br>a través de las flores'),
@@ -51,19 +51,19 @@ function _L($phrase){
         'HOME_SECTION_DOWN_LINK'=> array('en' => 'Discover more about what we do', 'es' => 'Descubre más sobre lo que hacemos'),
         'HOME_DO_YOU_LIKE'      => array('en' => 'Do you like', 'es' => '¿Te gusta '),
         'US_OURCOMPANY_CONTENT' => array(
-            'en' => 'We are a local farm located in La Ceja-Antioquia, a region with the perfect conditions to growth Hydrangeas. We specialize in growth high quality Hydrangeas because our biggets commitmen is satisfy our clients needs.',
+            'en' => 'We are a local farm located in La Ceja-Antioquia, a region with the perfect conditions to cultivate Hydrangeas. We specialize in growth high quality Hydrangeas because our biggest commitment is to satisfy our customers needs.',
             'es' => 'Somos una finca productora de Hydrangeas ubicada en el municipio de La Ceja-Antioquia, el lugar perfecto para cultivar las mejores flores. Nos especializamos en cultivar Hydrangeas de la mejor calidad para satisfacer las necesidades y deseos de nuestros clientes.'
         ),
         'US_BUYFROMUS_CONTENT'  => array(
-            'en' => 'What makes us different from the others is the fact that we deeply love what we do, and the quality of our Hydrangeas show that. We don´t care just about selling flowers, we care about satisfy our clients with the best quality Hydrangeas giving them what they were really looking for. ',
+            'en' => 'What make us different from the others is the fact that we deeply love what we do, and the quality of our Hydrangeas shows that. We don´t care just about selling flowers, we care about satisfy our customers with the best quality Hydrangeas giving them what they are really looking for.',
             'es' => 'Lo que nos hace diferentes a los demás productores es el hecho de amar profundamente lo que hacemos, lo cual se ve reflejado directamente en la calidad de nuestras flores. Nos interesa satisfacer a nuestros clientes con la calidad de nuestros productos, ofreciendoles Hydragneas que cumplan con sus deseos y expectativas.'
         ),
         'US_SOCIALRES_CONTENT'  => array(
-            'en' => 'In every single activity in our company we try to protect as much as possible three things: the environment, our employees and the community. Trying to promote our region progress we have an special policy, we just employ head of family people trying to give their families better opportunities in life.',
+            'en' => 'In every single activity in our company we take care to protect as much as possible three aspects: the environment, our employees and the community. Trying to promote our region progress we have an special policy, we just employ head of family people trying to give to their families better opportunities in life.',
             'es' => 'En todas las actividades diarias de nuestra empresa buscamos proteger el medio ambiente, nuestros trabajadores y a la comunidad de la cual hacemos parte. Además solo empleamos hombres y mujeres cabeza de familia, buscando promover el desarrollo y crecimiento de nuestra región.'
         ),
         'US_OURFARMS_CONTENT'   => array(
-            'en' => 'We have 3 different farms where we take the 100% of the Hydrangeas that we sell, for that reason we can have full control of the quality and the quantities. We carfully look after the whole process in order to give our client the best Hydrangeas of the market.',
+            'en' => 'We have 3 different farms where we take the 100% of the Hydrangeas that we sell, for that reason we have full control of the quality and the volume of production. We carefully look after the whole process in order to give our customer the best Hydrangeas of the market.',
             'es' => 'Contamos con tres diferentes centros de producción o fincas de donde extraemos el 100% de las Hydrangeas que comercializamos, lo cual nos da un control total sobre la calidad de nuestros productos y las cantidades disponibles. Cuidamos profundamente todos los procesos productivos para brindarle a nuestros clientes las mejores Hydrangeas del mercado.'
         ),
         'CONTACT_TITLE'         => array('en' => 'Leave a message', 'es' => 'Déjanos tu mensaje'),
